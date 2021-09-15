@@ -1,9 +1,9 @@
 # Hunt-Showdown-API
 Hunt showdown API documentations and images
 
-## For all documentations please follow the link bellow
-[API Documentation](https://huntshowdown-api.herokuapp.com)
-[Here to learn how to use images](https://huntshowdown-api.herokuapp.com/how-to-use)
+## For all documentations please follow the link bellow   
+[API Documentation](https://huntshowdown-api.herokuapp.com)   
+[Here to learn how to use images](https://huntshowdown-api.herokuapp.com/how-to-use)   
 
 # Credits
 All image here are property of Crytek GMBH.     
