@@ -1,0 +1,13 @@
+[
+    {
+        "0": {
+            "name": "Augusta",
+            "description": "Philip Huff Jones' Winfield, named for his wife. Finch tried to present it to her as a gift, but as she would not accept the tribute, it unceremoniously entered the arsenal of his men.",
+            "price": 300,
+            "currency": "Blood Bonds",
+            "DLC": null,
+            "partnered": false,
+            "image": "weapons/legendary/augusta.png"
+        }
+    }
+]

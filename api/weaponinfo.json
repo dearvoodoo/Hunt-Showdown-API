@@ -1,0 +1,45 @@
+[
+    {
+        "id": "winfield_m1873c",
+        "name": "Winfield M1873C",
+        "description": "Lightened repeating rifle with demi-size internal magazine, capable of firing compact bullets at rapid speed.",
+        "category": "Large",
+        "cost": 41,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 1,
+            "condition": null
+        },
+        "ammo": 3,
+        "special_ammo": [
+            5,
+            6,
+            7
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "7+1/28",
+            "damage": 110,
+            "effective_range": 95,
+            "rate_of_fire": 50,
+            "handling": 89,
+            "reload_speed": 10,
+            "muzzle_velocity": 400,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/winfield_m1873c.png",
+        "legendary_skin": [
+            0
+        ]
+    }
+]
