@@ -23,6 +23,18 @@
             "event_id": "light_the_shadow",
             "twitch_drops": false,
             "image": "weapons/legendary/bayou_phoenix.png"
+        },
+        "2": {
+            "name": "Vagrant",
+            "description": "A vagrant known as the tin-man rattled around the city with a large bag of cans, harmless until a malicious Hunter threw them into the bay. Able to save but a few, he decorated his Winfield M1873C Silencer with the remainder, and set out for revenge – silent as a whisper.",
+            "price": 200,
+            "currency": "Blood Bonds",
+            "DLC": null,
+            "partnered": false,
+            "event": false,
+            "event_id": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/vagrant.png"
         }
     }
 ]
