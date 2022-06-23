@@ -7,7 +7,22 @@
             "currency": "Blood Bonds",
             "DLC": null,
             "partnered": false,
+            "event": false,
+            "event_id": null,
+            "twitch_drops": false,
             "image": "weapons/legendary/augusta.png"
+        },
+        "1": {
+            "name": "Bayou Phoenix",
+            "description": "Ornamented with every shade found within the heart of a blazing fire, this Winfield M1873C Marksman is said to always find itys way back into the bayou, ready to rise to any occasion.",
+            "price": 0,
+            "currency": null,
+            "DLC": null,
+            "partnered": false,
+            "event": true,
+            "event_id": "light_the_shadow",
+            "twitch_drops": false,
+            "image": "weapons/legendary/bayou_phoenix.png"
         }
     }
 ]
