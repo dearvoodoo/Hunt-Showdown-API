@@ -8,7 +8,6 @@
             "DLC": null,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/augusta.png"
         },
@@ -19,8 +18,7 @@
             "currency": null,
             "DLC": null,
             "partnered": false,
-            "event": true,
-            "event_id": "light_the_shadow",
+            "event": "light_the_shadow",
             "twitch_drops": false,
             "image": "weapons/legendary/bayou_phoenix.png"
         },
@@ -32,7 +30,6 @@
             "DLC": null,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/vagrant.png"
         },
@@ -44,7 +41,6 @@
             "DLC": 1228530,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/fire_torn.png"
         },
@@ -56,7 +52,6 @@
             "DLC": null,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/louisiana_lustrum.png"
         },
@@ -68,7 +63,6 @@
             "DLC": 1576410,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/the_reckoning.png"
         },
@@ -79,8 +73,7 @@
             "currency": null,
             "DLC": null,
             "partnered": false,
-            "event": true,
-            "event_id": "winter_solstice",
+            "event": "winter_solstice",
             "twitch_drops": false,
             "image": "weapons/legendary/corvus.png"
         },
@@ -92,7 +85,6 @@
             "DLC": null,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/cypress_thorn.png"
         },
@@ -104,7 +96,6 @@
             "DLC": null,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/mot_juste.png"
         },
@@ -115,8 +106,7 @@
             "currency": null,
             "DLC": null,
             "partnered": false,
-            "event": true,
-            "event_id": "halloween_2021",
+            "event": "halloween_2021",
             "twitch_drops": false,
             "image": "weapons/legendary/the_executioner.png"
         },
@@ -128,7 +118,6 @@
             "DLC": 1374340,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/malice.png"
         },
@@ -140,7 +129,6 @@
             "DLC": 1966460,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/arlington_grave.png"
         },
@@ -152,7 +140,6 @@
             "DLC": 1225140,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/blood_orchid.png"
         },
@@ -164,7 +151,6 @@
             "DLC": null,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/black_wight.png"
         },
@@ -176,7 +162,6 @@
             "DLC": null,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/black_hand.png"
         },
@@ -188,7 +173,6 @@
             "DLC": null,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/alison.png"
         },
@@ -199,8 +183,7 @@
             "currency": "null",
             "DLC": null,
             "partnered": false,
-            "event": true,
-            "event_id": "halloween_2021",
+            "event": "halloween_2021",
             "twitch_drops": false,
             "image": "weapons/legendary/the_marwood.png"
         },
@@ -212,7 +195,6 @@
             "DLC": null,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/altar_boy.png"
         },
@@ -224,7 +206,6 @@
             "DLC": null,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/swan_song.png"
         },
@@ -236,7 +217,6 @@
             "DLC": null,
             "partnered": "Geef",
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/spring_chicken.png"
         },
@@ -248,7 +228,6 @@
             "DLC": 1586080,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/once_bitten.png"
         },
@@ -260,7 +239,6 @@
             "DLC": null,
             "partnered": "Psychoghost",
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/zorngeist.png"
         }
