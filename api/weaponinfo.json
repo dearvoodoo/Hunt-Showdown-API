@@ -137,7 +137,7 @@
         "can_be_dual": false,
         "unlock": {
             "rank": 26,
-            "condition": "null"
+            "condition": null
         },
         "ammo": 1,
         "special_ammo": [
@@ -217,7 +217,7 @@
         "can_be_dual": false,
         "unlock": {
             "rank": 1,
-            "condition": "null"
+            "condition": null
         },
         "ammo": null,
         "special_ammo": null,
@@ -407,6 +407,127 @@
         "image": "weapons/large/lebel_1886_marksman.png",
         "legendary_skin": [
             20,21
+        ]
+    },
+    {
+        "id": "bomb_lance",
+        "name": "Bomb Lance",
+        "description": "Adapted for combat on land, this explosive harpoon can be fired short distances and deals tremendous damage on direct impact. It carries five shots, and is brutal in melee.",
+        "category": "Large",
+        "cost": 199,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 78,
+            "condition": null
+        },
+        "ammo": 24,
+        "special_ammo": null,
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 2
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 3
+            }
+        },
+        "stats": {
+            "capacity": "1/5",
+            "damage": 150,
+            "effective_range": 25,
+            "rate_of_fire": 15,
+            "handling": 87,
+            "reload_speed": 4,
+            "muzzle_velocity": 60,
+            "melee_damage": 180,
+            "heavy_melee_damage": 360
+        },
+        "image": "weapons/large/bomb_lance.png",
+        "legendary_skin": [
+            22,23
+        ]
+    },
+    {
+        "id": "hunting_bow",
+        "name": "Hunting Bow",
+        "description": "Able to pierce throught flesh and bone at a great distance, the Hunting Bow will make quick, stealthy work of monsters and men.",
+        "category": "Medium",
+        "cost": 57,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 54,
+            "condition": null
+        },
+        "ammo": 28,
+        "special_ammo": [
+            25,26,27
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "1/16",
+            "damage": 227,
+            "effective_range": 23,
+            "rate_of_fire": 45,
+            "handling": 66,
+            "reload_speed": 1,
+            "muzzle_velocity": 150,
+            "melee_damage": 13,
+            "heavy_melee_damage": 31
+        },
+        "image": "weapons/medium/hunting_bow.png",
+        "legendary_skin": [
+            24,25,26
+        ]
+    },
+    {
+        "id": "hand_crossbow",
+        "name": "Hand Crossbow",
+        "description": "Imaginative compact hand crossbow that fires compact bolts. Excels in situations when discretion is required above all. Bolts can be retrieved and re-used.",
+        "category": "Small",
+        "cost": 30,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 4,
+            "condition": null
+        },
+        "ammo": null,
+        "special_ammo": [
+            29,30,31
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "1/16",
+            "damage": 195,
+            "effective_range": 45,
+            "rate_of_fire": 12,
+            "handling": 53,
+            "reload_speed": 5,
+            "muzzle_velocity": 100,
+            "melee_damage": 13,
+            "heavy_melee_damage": 27
+        },
+        "image": "weapons/small/hand_crossbow.png",
+        "legendary_skin": [
+            27
         ]
     }
 ]

@@ -180,7 +180,7 @@
             "name": "The Marwood",
             "description": "A shot from this Caldwell Rival 78 can wake tge dead and put them back in the ground. Fashioned from the wood of a hanging tree, and adorned with the rope of a well-worn noose.",
             "price": null,
-            "currency": "null",
+            "currency": null,
             "DLC": null,
             "partnered": false,
             "event": "halloween_2021",
@@ -224,7 +224,7 @@
             "name": "Once Bitten",
             "description": "A brutal attack left this Lebel Marksman's bearer scarred and warry, body and gun raked and ravaged by enormous, bloody claws. From that day on that Hunter favored stealth and the sniper's perch - nerver letting another foe get close enough to see the damage - or inflict any more.",
             "price": null,
-            "currency": "null",
+            "currency": null,
             "DLC": 1586080,
             "partnered": false,
             "event": false,
@@ -241,6 +241,76 @@
             "event": false,
             "twitch_drops": false,
             "image": "weapons/legendary/zorngeist.png"
+        },
+        "22": {
+            "name": "Shellback",
+            "description": "For the sailors who came and fought their way to the top of tha AHA, the Shellback bomb lance was the weapon of choise for harpooning enemies both in water and on land. Both intimate and deadly.",
+            "price": null,
+            "currency": null,
+            "DLC": 1255000,
+            "partnered": false,
+            "event": false,
+            "event_id": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/shellback.png"
+        },
+        "23": {
+            "name": "The Shrike",
+            "description": "Like its namesake, this butchering blade stealthily impales its prey on its insatiable, beak-like spike. The addition of a Bomb Lance's explosive charge, it is said, was added by Scrapbeak themselves, just after their gruesome transformation.",
+            "price": null,
+            "currency": null,
+            "DLC": null,
+            "partnered": false,
+            "event": true,
+            "event_id": "as_the_crow_flies",
+            "twitch_drops": false,
+            "image": "weapons/legendary/the_shrike.png"
+        },
+        "24": {
+            "name": "Wayfinder",
+            "description": "Quiet as a chill gust of wind heralding a hurricane, the snap of this bow's string ushers in the inescapable destruction of The Exile, finding her way home.",
+            "price": null,
+            "currency": null,
+            "DLC": null,
+            "partnered": false,
+            "event": "Light_the_Shadow",
+            "twitch_drops": false,
+            "image": "weapons/legendary/wayfinder.png"
+        },
+        "25": {
+            "name": "Sinner's Sinew",
+            "description": "The finesse of the Sinner's fighting style in mirrored in their elegant armaments. The decoration of this recurve Bow makes it look like a weapon from a finer time, but its deadliness is assures as ever.",
+            "price": null,
+            "currency": null,
+            "DLC": null,
+            "partnered": false,
+            "event": "twitch_drop_4th_anniversary",
+            "twitch_drops": false,
+            "image": "weapons/legendary/sinners_sinew.png"
+        },
+        "26": {
+            "name": "Stalker's Snarl",
+            "description": "\"A predator´s best ally is silence,\" thought Leonel Frisk when he crafted this Hunting Bow. Each shot silent as a wolf prowling, it now accompanies him in the Bayou and whispers the death´s song to his prey with each arrow.",
+            "price": null,
+            "currency": null,
+            "DLC": 1906330,
+            "partnered": false,
+            "event": false,
+            "event_id": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/stalkers_snarl.png"
+        },
+        "27": {
+            "name": "Steel Sprung",
+            "description": "More than just a showpiece of its smith's skill, this complex Hand Crossbow is wrought from fine materials with expert machining, proving deadly and powerful.",
+            "price": 400,
+            "currency": "Blood Bonds",
+            "DLC": null,
+            "partnered": false,
+            "event": false,
+            "event_id": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/steel_sprung.png"
         }
     }
 ]
