@@ -500,7 +500,7 @@
             "rank": 4,
             "condition": null
         },
-        "ammo": null,
+        "ammo": 32,
         "special_ammo": [
             29,30,31
         ],
@@ -528,6 +528,498 @@
         "image": "weapons/small/hand_crossbow.png",
         "legendary_skin": [
             27
+        ]
+    },
+    {
+        "id": "berthier_mle_1892",
+        "name": "Berthier Mle 1892",
+        "description": "The lighter alternative to the Lebel 1886, the Berthier Mle 1892 is a bolt-action mousqueton that doesn't lose power for the sake of its convenience.",
+        "category": "Large",
+        "cost": 356,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 62,
+            "condition": null
+        },
+        "ammo": 1,
+        "special_ammo": [
+            33,34
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "3/12",
+            "damage": 130,
+            "effective_range": 305,
+            "rate_of_fire": 36,
+            "handling": 79,
+            "reload_speed": 3,
+            "muzzle_velocity": 590,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/berthier_mle_1892.png",
+        "legendary_skin": [
+            28
+        ]
+    },
+    {
+        "id": "martini_henry_ic1",
+        "name": "Martini-Henry IC1",
+        "description": "The workhorse rifle of the British Empire, the Martini-Henry Carbine is a single-shot breech-loading rifle that values simplicity and power.",
+        "category": "Large",
+        "cost": 122,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 16,
+            "condition": null
+        },
+        "ammo": 1,
+        "special_ammo": [
+            35,36,37
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "1/20",
+            "damage": 143,
+            "effective_range": 334,
+            "rate_of_fire": 45,
+            "handling": 70,
+            "reload_speed": 3,
+            "muzzle_velocity": 400,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/martini_henry_ic1.png",
+        "legendary_skin": [
+            29,30
+        ]
+    },
+    {
+        "id": "mosin_nagant_m1891_avtomat",
+        "name": "Mosin-Nagant M1891 Avtomat",
+        "description": "This experimental conversion of a bolt-action rifle was modified into a makeshift machine gun, with a high rate of fire and increased internal magazine. Reloaded with stripper clips.",
+        "category": "Large",
+        "cost": 1250,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 0,
+            "condition": "Mosin-Nagant M1891 Obrez Drum"
+        },
+        "ammo": 1,
+        "special_ammo": [
+            38,39
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "15/0",
+            "damage": 136,
+            "effective_range": 319,
+            "rate_of_fire": 400,
+            "handling": 35,
+            "reload_speed": 11,
+            "muzzle_velocity": 615,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/mosin_nagant_m1891_avtomat.png",
+        "legendary_skin": [
+            31,32
+        ]
+    },
+    {
+        "id": "mosin_nagant_m1891",
+        "name": "Mosin-Nagant M1891",
+        "description": "Modern Imperial Russian bolt-action service rifle with an internal magazine, firing powerful long cartridges. When fully emptied, can be reloaded fast with a five-round stripper clip.",
+        "category": "Large",
+        "cost": 490,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 72,
+            "condition": null
+        },
+        "ammo": 1,
+        "special_ammo": [
+            40,41
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "5/10",
+            "damage": 136,
+            "effective_range": 319,
+            "rate_of_fire": 34,
+            "handling": 75,
+            "reload_speed": 4,
+            "muzzle_velocity": 615,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/mosin_nagant_m1891.png",
+        "legendary_skin": [
+            33,34,35,36,37
+        ]
+    },
+    {
+        "id": "romero_77",
+        "name": "Romero 77",
+        "description": "Classic break-action shotgun with a long barrel. Good range and power for a shotgun. Has to reload after every shot.",
+        "category": "Large",
+        "cost": 34,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 1,
+            "condition": null
+        },
+        "ammo": 0,
+        "special_ammo": [
+            42,43,44,45
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "1/12",
+            "damage": 200,
+            "effective_range": 15,
+            "rate_of_fire": 30,
+            "handling": 92,
+            "reload_speed": 3,
+            "muzzle_velocity": 450,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/romero_77.png",
+        "legendary_skin": [
+            38,19
+        ]
+    },
+    {
+        "id": "springfield_1866",
+        "name": "Springfield 1866",
+        "description": "A breech-loading rifle with a .50-70 caliber centerfire cartridge, the Springfield 1866 is best known for its quick rate of fire.",
+        "category": "Large",
+        "cost": 38,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 1,
+            "condition": null
+        },
+        "ammo": 2,
+        "special_ammo": [
+            46,47
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "1/24",
+            "damage": 132,
+            "effective_range": 212,
+            "rate_of_fire": 42,
+            "handling": 80,
+            "reload_speed": 2,
+            "muzzle_velocity": 490,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/springfield_1866.png",
+        "legendary_skin": [
+            40,41
+        ]
+    },
+    {
+        "id": "springfield_1866_compact",
+        "name": "Springfield 1866 Compact",
+        "description": "A shorter version of the classic breech-loading rifle with .50-70 caliber centerfire cartridges and a quick fire rate. It's sawn-off barrel and stock make the weapon hard to control, but a great backup.",
+        "category": "Medium",
+        "cost": 33,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 0,
+            "condition": "Springfield 1866 Dumdum Ammo"
+        },
+        "ammo": 2,
+        "special_ammo": [
+            48,49
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "1/24",
+            "damage": 130,
+            "effective_range": 203,
+            "rate_of_fire": 42,
+            "handling": 67,
+            "reload_speed": 2,
+            "muzzle_velocity": 440,
+            "melee_damage": 13,
+            "heavy_melee_damage": 31
+        },
+        "image": "weapons/medium/springfield_1866_compact.png",
+        "legendary_skin": [
+            42
+        ]
+    },
+    {
+        "id": "springfield_1866_marksman",
+        "name": "Springfield 1866 Marksman",
+        "description": "A shorter, scoped version of the classic breech-loading rifle with a .50-70 caliber centerfire cartridge, quick fire rate, and stock. the scope is ideal to aid long-range shots.",
+        "category": "Medium",
+        "cost": 73,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 0,
+            "condition": "Earn 100 XP with any Springfield 1866 variant"
+        },
+        "ammo": 2,
+        "special_ammo": [
+            50,51
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "1/24",
+            "damage": 132,
+            "effective_range": 212,
+            "rate_of_fire": 42,
+            "handling": 75,
+            "reload_speed": 2,
+            "muzzle_velocity": 490,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/medium/springfield_1866_marksman.png",
+        "legendary_skin": [
+            43
+        ]
+    },
+    {
+        "id": "vetterli_71_karabiner",
+        "name": "Vetterli 71 Karabiner",
+        "description": "Swiss military, bolt-action carbine with internal magazine. Powerful at medium distances. Reloading is inspired by the Winfield repeater rifle, making it easy to top up ammunition.",
+        "category": "Large",
+        "cost": 105,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 6,
+            "condition": null
+        },
+        "ammo": 2,
+        "special_ammo": [
+            52,53,54
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "6+1/20",
+            "damage": 130,
+            "effective_range": 203,
+            "rate_of_fire": 42,
+            "handling": 87,
+            "reload_speed": 12,
+            "muzzle_velocity": 410,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/vetterli_71_karabiner.png",
+        "legendary_skin": [
+            44,45,46
+        ]
+    },
+    {
+        "id": "vetterli_71_karabiner_bayonet",
+        "name": "Vetterli 71 Karabiner Bayonet",
+        "description": "Swiss Military, bolt-action carbine with internal magazine. The attached bayonet makes this a great choice for close combat.",
+        "category": "Large",
+        "cost": 155,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 0,
+            "condition": "Vetterli 71 Karabiner Full Metal Jacket Ammo"
+        },
+        "ammo": 2,
+        "special_ammo": [
+            55,56,57
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "6+1/20",
+            "damage": 130,
+            "effective_range": 203,
+            "rate_of_fire": 42,
+            "handling": 85,
+            "reload_speed": 12,
+            "muzzle_velocity": 410,
+            "melee_damage": 27,
+            "heavy_melee_damage": 168
+        },
+        "image": "weapons/large/vetterli_71_karabiner_bayonet.png",
+        "legendary_skin": [
+            47
+        ]
+    },
+    {
+        "id": "vetterli_71_karabiner_deadeye",
+        "name": "Vetterli 71 Karabiner Deadeye",
+        "description": "Swiss Military, bolt-action carbine with internal magazine. A short scope makes this weapon very effective at longer ranges.",
+        "category": "Large",
+        "cost": 130,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 0,
+            "condition": "TODO"
+        },
+        "ammo": 2,
+        "special_ammo": [
+            58,59,60
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "6+1/20",
+            "damage": 130,
+            "effective_range": 203,
+            "rate_of_fire": 42,
+            "handling": 83,
+            "reload_speed": 12,
+            "muzzle_velocity": 410,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/vetterli_71_karabiner_deadeye.png",
+        "legendary_skin": [
+            48
+        ]
+    },
+    {
+        "id": "winfield_m1873c_vandal_deadeye",
+        "name": "Winfield M1873C Vandal Deadeye",
+        "description": "A shortened Winfield M1873C, fires compact bullets at rapid speed. A Deadeye scope improves performance at midrange.",
+        "category": "Medium",
+        "cost": 45,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 0,
+            "condition": "Winfield M1873C Full Metal Jacket Ammo"
+        },
+        "ammo": 3,
+        "special_ammo": [
+            61,62,63
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "6+1/28",
+            "damage": 107,
+            "effective_range": 94,
+            "rate_of_fire": 50,
+            "handling": 76,
+            "reload_speed": 8,
+            "muzzle_velocity": 370,
+            "melee_damage": 13,
+            "heavy_melee_damage": 31
+        },
+        "image": "weapons/medium/winfield_m1873c_vandal_deadeye.png",
+        "legendary_skin": [
+            49
         ]
     }
 ]

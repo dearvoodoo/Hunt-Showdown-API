@@ -250,7 +250,6 @@
             "DLC": 1255000,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/shellback.png"
         },
@@ -261,8 +260,7 @@
             "currency": null,
             "DLC": null,
             "partnered": false,
-            "event": true,
-            "event_id": "as_the_crow_flies",
+            "event": "as_the_crow_flies",
             "twitch_drops": false,
             "image": "weapons/legendary/the_shrike.png"
         },
@@ -273,7 +271,7 @@
             "currency": null,
             "DLC": null,
             "partnered": false,
-            "event": "Light_the_Shadow",
+            "event": "light_the_shadow",
             "twitch_drops": false,
             "image": "weapons/legendary/wayfinder.png"
         },
@@ -296,7 +294,6 @@
             "DLC": 1906330,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/stalkers_snarl.png"
         },
@@ -308,9 +305,250 @@
             "DLC": null,
             "partnered": false,
             "event": false,
-            "event_id": null,
             "twitch_drops": false,
             "image": "weapons/legendary/steel_sprung.png"
+        },
+        "28": {
+            "name": "Sui's Bane",
+            "description": "Nightmares plagued by Sui and the mental agony it causes impregnate this Berthier Mle 1892´s talismans. Believed to have once warded off the demon, it now keeps the monsters of rot at bay in the Bayou.",
+            "price": null,
+            "currency": "null",
+            "DLC": 1852470,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/suis_bane.png"
+        },
+        "29": {
+            "name": "Long Hand",
+            "description": "Marshall Brewer's personal firearm, this rifle has a long history of shortening the lives of those outside the law.",
+            "price": 400,
+            "currency": "Blood Bonds",
+            "DLC": null,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/long_hand.png"
+        },
+        "30": {
+            "name": "Siren's Song",
+            "description": "Those drawn towards the peal of this Martini-Henry IC1 realize too late that it rings with the sound of their own death. At the root of the Siren's Song are only laments for the foolish and vanquished.",
+            "price": 600,
+            "currency": "Blood Bonds",
+            "DLC": null,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/sirens_song.png"
+        },
+        "31": {
+            "name": "Wolf's Mouth",
+            "description": "This former soldier's trusted Mosin is adorned with decorative camouflage - red for the blood of his enemies, white as the tooth of the wolf, and black as the night through which he stalks the horrors of the bayou, on the defense and ever deadly.",
+            "price": 500,
+            "currency": "Blood Bonds",
+            "DLC": null,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/wolfs_mouth.png"
+        },
+        "32": {
+            "name": "Baptismal Blood",
+            "description": "This Mosin-Nagant Avtomat is presented to Acolytes of the Night for their final initiation rite. If they pass or fail, they add either their enemies' blood, or their bone.",
+            "price": null,
+            "currency": "null",
+            "DLC": 1255000,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/baptismal_blood.png"
+        },
+        "33": {
+            "name": "Wormwood",
+            "description": "The corruption gets into the trees, twisting tendrils around roots and turning sap dark as bile. This Mosin-Nagant M1891 is made from such wood and only when its work is done will it be left to rot.",
+            "price": 500,
+            "currency": "Blood Bonds",
+            "DLC": null,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/wormwood.png"
+        },
+        "34": {
+            "name": "The Eschaton",
+            "description": "Property of Isaac Powell, leader of Night of the Hunter. Carved into this Mosin-Nagant's body and stock are symbols charting the final days leading up to the end of times, their countdown soon to start.",
+            "price": 400,
+            "currency": "Blood Bonds",
+            "DLC": null,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/the_eschaton.png"
+        },
+        "35": {
+            "name": "The Centenary",
+            "description": "The AHA is keen to award extrordiniary Hunters, and this Mosin-Nagant is the prize for any who lives to see a prestige of 100.",
+            "price": 100,
+            "currency": "Prestige",
+            "DLC": null,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/the_centenary.png"
+        },
+        "36": {
+            "name": "Bone Veve",
+            "description": "Doctor John's Mosin-Nagant, decorated with carvings resembling Veve markings, illegible to mortal eyes and smooth to the touch.",
+            "price": 700,
+            "currency": "Blood Bonds",
+            "DLC": null,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/bone_veve.png"
+        },
+        "37": {
+            "name": "Bear's Tooth",
+            "description": "Deep below the moss of the forest floor, you'll find the cracked bones of a bear killed by Thomas Bridge, its skin still on his shoulders, and its tooth now flashing on this gun. Now, this Mosin-Nagant channels the beat's vicious ferocity into every shot.",
+            "price": 0,
+            "currency": "Blood Bonds",
+            "DLC": null,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/bears_tooth.png"
+        },
+        "38": {
+            "name": "Lock and Key",
+            "description": "This Romero abetted Monroe's escape from the asylum, and when he sought release from the torment of his memories, failed to fire. this commited Monroe to a new purpose: survival. Monroe has kept it in pristine condition since.",
+            "price": null,
+            "currency": "null",
+            "DLC": 1610550,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/lock_and_key.png"
+        },
+        "39": {
+            "name": "Southern Belle",
+            "description": "Understated in elegance, this Romero 77 will stick by you through thick and thin.",
+            "price": 500,
+            "currency": "Blood Bonds",
+            "DLC": null,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/southern_belle.png"
+        },
+        "40": {
+            "name": "Old Tusk",
+            "description": "This trusty Springfield 1866 was the property of an old Hunter who, through a brief turn of fortune, afforded to adorn its stock with an ivory inlay.",
+            "price": null,
+            "currency": "null",
+            "DLC": null,
+            "partnered": false,
+            "event": "twitch_drop_4th_anniversary",
+            "twitch_drops": true,
+            "image": "weapons/legendary/old_tusk.png"
+        },
+        "41": {
+            "name": "Seinan Sharpshooter",
+            "description": "The Ronin briefly fought with the last samurai during the Seinan War, pledging himself to Saigō Takamori. There, he gained notoriety for his deadly use of his Springfield 1866, one of the most advanced weapons on the field.",
+            "price": null,
+            "currency": "null",
+            "DLC": 1397380,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/seinan_sharpshooter.png"
+        },
+        "42": {
+            "name": "Spring's End",
+            "description": "Yellowing grass, empty nests and rotten blossoms are the litter of spring's end. Rebirth happens alongside death and this Springfield 1866 Compact guarantees the cycle keeps turning.",
+            "price": 500,
+            "currency": "Blood Bonds",
+            "DLC": null,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/springs_end.png"
+        },
+        "43": {
+            "name": "Archangel",
+            "description": "In Christian scripture, archangels led the celestial host against the forces of darkness. In the bayou, this Springfield 1866 Marksman is used to the same purpose: to drive the creeping forces of darkness out of the bayou and return the region to the divine light.",
+            "price": 400,
+            "currency": "Blood Bonds",
+            "DLC": null,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/archangel.png"
+        },
+        "44": {
+            "name": "Pioneer's Blood",
+            "description": "Leander Coetzee swore he would never shed blood for a cause that was not his own. Far from home, in New Orleans, he found a reason to put his old Vetterli to work.",
+            "price": 600,
+            "currency": "Blood Bonds",
+            "DLC": null,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/pioneers_blood.png"
+        },
+        "45": {
+            "name": "Winter Rose",
+            "description": "A white rose blooming in winter was once thought to be an omen of death. In the case of this rose-engraved Vetterli, that omen rings true with every shot, though the sight of its metallic bloom would be an omen of impending death in any season.",
+            "price": null,
+            "currency": "null",
+            "DLC": null,
+            "partnered": false,
+            "event": "christmas_2020",
+            "twitch_drops": false,
+            "image": "weapons/legendary/winter_rose.png"
+        },
+        "46": {
+            "name": "Mountain Air",
+            "description": "This Vetterli 71 Karabiner hails from Alpine old country and bears an abstract patterned engraving that at once encapsulates budding dew, fertile valleys, and shearing winds. In the new world, this breathes the same.",
+            "price": null,
+            "currency": "null",
+            "DLC": 1191490,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/mountain_air.png"
+        },
+        "47": {
+            "name": "Backbone",
+            "description": "For a high price, a Hunter can perform a ritual and by attaching bones from the recently dead of their firearms, channel the skills of the fallen. Be it superstition or truth, the bearer of this Vetterli exhibited supernatural prowess in the field, shattering the bones of many more.",
+            "price": null,
+            "currency": "null",
+            "DLC": null,
+            "partnered": false,
+            "event": "halloween_2020",
+            "twitch_drops": false,
+            "image": "weapons/legendary/backbone.png"
+        },
+        "48": {
+            "name": "Mesa Updraught",
+            "description": "Accompanying the Archaeologist on her desert treks, this Vetterli 71 Deadeye was most at home perched on the rock face of a mesa, scanning the scrub plain for hostiles, and eliminating them.",
+            "price": null,
+            "currency": "null",
+            "DLC": 1255001,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/mesa_updraught.png"
+        },
+        "49": {
+            "name": "Bear's Leg",
+            "description": "This Winfield M1873C Vandal Deadeye played center stage in Carter’s show. He dazzled the crowd, cocking it with extravagant spins, the stage lights glinting on the pearlescent lens and gold-inlay bear.",
+            "price": null,
+            "currency": "null",
+            "DLC": 1397381,
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/bears_leg.png"
         }
     }
 ]
