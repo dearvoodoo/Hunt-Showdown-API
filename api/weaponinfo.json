@@ -1021,5 +1021,372 @@
         "legendary_skin": [
             49
         ]
+    },
+    {
+        "id": "specter_1882",
+        "name": "Specter 1882",
+        "description": "Revolutionary pump-action shotgun with long barrel, able to fire shells in rapid succession. Reloading the internal magazine takes time, due to its clunky, unrefined loading sequence.",
+        "category": "Large",
+        "cost": 188,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 24,
+            "condition": null
+        },
+        "ammo": 0,
+        "special_ammo": [
+            64,65,66,67
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "4+1/10",
+            "damage": 185,
+            "effective_range": 12,
+            "rate_of_fire": 40,
+            "handling": 85,
+            "reload_speed": 14,
+            "muzzle_velocity": 425,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/specter_1882.png",
+        "legendary_skin": [
+            50,51
+        ]
+    },
+    {
+        "id": "vetterli_71_karabiner_marksman",
+        "name": "Vetterli 71 Karabiner Marksman",
+        "description": "Swiss Military, bolt-action carbine with internal magazine. A short scope makes this weapon very effective at longer ranges.",
+        "category": "Large",
+        "cost": 190,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 0,
+            "condition": "Vetterli 71 Karabiner"
+        },
+        "ammo": 2,
+        "special_ammo": [
+            68,69,70
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "6+1/20",
+            "damage": 130,
+            "effective_range": 203,
+            "rate_of_fire": 42,
+            "handling": 80,
+            "reload_speed": 12,
+            "muzzle_velocity": 410,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/vetterli_71_karabiner_marksman.png",
+        "legendary_skin": [
+            52
+        ]
+    },
+    {
+        "id": "vetterli_71_karabiner_silencer",
+        "name": "Vetterli 71 Karabiner Silencer",
+        "description": "Swiss Military, bolt-action carbine with internal magazine. The attached silencer makes this ideal for stealth.",
+        "category": "Large",
+        "cost": 150,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 0,
+            "condition": "Vetterli 71 Karabiner Bayonet"
+        },
+        "ammo": 2,
+        "special_ammo": [
+            71,72,73
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "6+1/20",
+            "damage": 130,
+            "effective_range": 133,
+            "rate_of_fire": 42,
+            "handling": 82,
+            "reload_speed": 12,
+            "muzzle_velocity": 280,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/vetterli_71_karabiner_silencer.png",
+        "legendary_skin": null
+    },
+    {
+        "id": "winfield_1887_terminus",
+        "name": "Winfield 1887 Terminus",
+        "description": "Seminal lever-action repeating shotgun. Boasting a balance between power and rate-of-fire, this became an icon of the era. Chamber 5+2 shells.",
+        "category": "Large",
+        "cost": 309,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 64,
+            "condition": null
+        },
+        "ammo": 0,
+        "special_ammo": [
+            74,75,76,77
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "6+1/8",
+            "damage": 185,
+            "effective_range": 12,
+            "rate_of_fire": 36,
+            "handling": 82,
+            "reload_speed": 14,
+            "muzzle_velocity": 425,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/winfield_1887_terminus.png",
+        "legendary_skin": [
+            53
+        ]
+    },
+    {
+        "id": "winfield_1893_slate",
+        "name": "Winfield 1893 Slate",
+        "description": "An exposed hammer shotgun that replaces lever-action with pump-action, this Winfield Model 93 hold several 12-gauge rounds to cause devastating damage to opponents.",
+        "category": "Large",
+        "cost": 250,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 48,
+            "condition": null
+        },
+        "ammo": 0,
+        "special_ammo": [
+            78,79
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "5+1/6",
+            "damage": 180,
+            "effective_range": 12,
+            "rate_of_fire": 58,
+            "handling": 75,
+            "reload_speed": 9,
+            "muzzle_velocity": 425,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/winfield_1893_slate.png",
+        "legendary_skin": [
+            54
+        ]
+    },
+    {
+        "id": "winfield_m1873_aperture",
+        "name": "Winfield M1873 Aperture",
+        "description": "Modified iconic repeating rifle with very large internal magazine. The Aperture sight makes it easier to aim more precisely at medium ranges.",
+        "category": "Large",
+        "cost": 80,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 0,
+            "condition": "Winfield M1873"
+        },
+        "ammo": 3,
+        "special_ammo": [
+            80,81,82
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "15+1/20",
+            "damage": 110,
+            "effective_range": 95,
+            "rate_of_fire": 50,
+            "handling": 79,
+            "reload_speed": 16,
+            "muzzle_velocity": 400,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/winfield_m1873_aperture.png",
+        "legendary_skin": [
+            55
+        ]
+    },
+    {
+        "id": "winfield_m1873_talon",
+        "name": "Winfield M1873 Talon",
+        "description": "Modified iconic repeating rifle with very large internal magazine. The Aperture sight makes it easier to aim more precisely at medium ranges.",
+        "category": "Large",
+        "cost": 100,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 0,
+            "condition": "Winfield M1873 Incendiary Ammo"
+        },
+        "ammo": 3,
+        "special_ammo": [
+            83,84,85
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 3
+            }
+        },
+        "stats": {
+            "capacity": "15+1/20",
+            "damage": 110,
+            "effective_range": 95,
+            "rate_of_fire": 50,
+            "handling": 85,
+            "reload_speed": 16,
+            "muzzle_velocity": 400,
+            "melee_damage": 27,
+            "heavy_melee_damage": 150
+        },
+        "image": "weapons/large/winfield_m1873_talon.png",
+        "legendary_skin": [
+            56,57
+        ]
+    },
+    {
+        "id": "winfield_m1873",
+        "name": "Winfield M1873",
+        "description": "Iconic repeating rifle with very large internal magazine, capable of firing compact bullets at rapid speed. Reload is very simple, making an ammo top-up a quick job.",
+        "category": "Large",
+        "cost": 75,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 20,
+            "condition": null
+        },
+        "ammo": 3,
+        "special_ammo": [
+            86,87,88
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "15+1/20",
+            "damage": 110,
+            "effective_range": 95,
+            "rate_of_fire": 50,
+            "handling": 87,
+            "reload_speed": 16,
+            "muzzle_velocity": 400,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/winfield_m1873.png",
+        "legendary_skin": [
+            58
+        ]
+    },
+    {
+        "id": "winfield_m1876_centennial",
+        "name": "Winfield M1876 Centennial",
+        "description": "Powerful repeating rifle chambered for larger ammunition than previous models. The magazine hold 9 rounds.",
+        "category": "Large",
+        "cost": 157,
+        "can_be_dual": false,
+        "unlock": {
+            "rank": 58,
+            "condition": null
+        },
+        "ammo": 2,
+        "special_ammo": [
+            89,90
+        ],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0
+            }
+        },
+        "stats": {
+            "capacity": "9+1/12",
+            "damage": 123,
+            "effective_range": 180,
+            "rate_of_fire": 39,
+            "handling": 76,
+            "reload_speed": 11,
+            "muzzle_velocity": 600,
+            "melee_damage": 27,
+            "heavy_melee_damage": 54
+        },
+        "image": "weapons/large/winfield_m1876_centennial.png",
+        "legendary_skin": [
+            59
+        ]
     }
 ]
