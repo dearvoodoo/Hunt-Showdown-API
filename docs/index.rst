@@ -5,7 +5,7 @@
 
 .. _main:
 
-Welcome to Murmur Discord Bot documentation!
+Welcome to Hunt: Showdown API documentation!
 =============================================
 
 .. toctree::
@@ -17,21 +17,17 @@ Welcome to Murmur Discord Bot documentation!
 
 .. toctree::
     :maxdepth: 2
-    :caption: Module & Commandes Reference:
+    :caption: Endpoints:
 
-    modules/general
-    modules/animals
-    modules/announcer
-    modules/audio
-    modules/autoroler
-    modules/cleanup
+    modules/weapons
+    modules/weaponinfo
 
 
 .. toctree::
     :maxdepth: 2
     :caption: Changelogs:
 
-    changelogs/changelog_2_0
+    changelogs/changelog_1_0
 
 
 Indices and tables
