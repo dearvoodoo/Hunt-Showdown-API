@@ -42,6 +42,7 @@ The API ?
 The API returns a JSON response by default.
 You can use query in url to request a specific information.
 All list of endpoints and result exemple are available in the category Endpoints.
+
 .. note::
     API requests may be rate limited.
     Go to :doc:`/ratelimitation`
