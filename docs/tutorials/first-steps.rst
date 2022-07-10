@@ -1,171 +1,72 @@
 .. First Steps
 
 ========================
-First Steps with Murmur
+First Steps Hunt: Showdown API
 ========================
 
-This guide serves as a tutorial for the first steps with Murmur.
-It will cover the basics of setting up the bot for your
-server and the basics of setting up some modules. We will
-also point you towards some further resources that may assist
-you in the process.
+This guide serves as a tutorial for the first steps with Hunt: Showdown API.
+It will cover the basics of using this API for your
+app. We will also point you towards some further 
+resources that may assist you in the process.
 
 ---------------
-Getting started
+What is an API ?
 ---------------
 
-To start off, be sure that you have installed Python 3.8.
-Next, you need to decide if you want to develop against the Stable or Develop version of Red.
-Depending on what your goal is should help determine which version you need.
-
-.. attention::
-    The Develop version may have changes on it which break compatibility with the Stable version and other cogs.
-    If your goal is to support both versions, make sure you build compatibility layers or use separate branches to keep compatibility until the next Red release
-
-Open a terminal or command prompt and type one of the following
-    Stable Version: :code:`python3.8 -m pip install -U Red-DiscordBot`
-
-.. note::
-
-  To install the development version, replace ``Red-DiscordBot`` in the above commands with the
-  link below. **The development version of the bot contains experimental changes. It is not
-  intended for normal users.** We will not support anyone using the development version in any
-  support channels. Using the development version may break third party cogs and not all core
-  commands may work. Downgrading to stable after installing the development version may cause
-  data loss, crashes or worse. Please keep this in mind when using the development version
-  while working on cog creation.
-
-  .. code-block:: none
-
-      git+https://github.com/Cog-Creators/Red-DiscordBot@V3/develop#egg=Red-DiscordBot
-
-
-(Windows users may need to use :code:`py -3.8` or :code:`python` instead of :code:`python3.8`)
+API stands for Application Programming Interface.
+In basic terms, APIs are a set of functions and procedures that allow for the creation of applications. They access the data and features of other applications, services, or operating systems.
+Essentially, they’re a go-between for different software platforms. They allow two unrelated applications to “talk” to each other.
 
 --------------------
-Setting up a package
+What is this about ?
 --------------------
 
-To set up a package, we would just need to create a new folder.
-This should be named whatever you want the cog to be named (for
-the purposes of this example, we'll call this :code:`mycog`).
-In this folder, create three files: :code:`__init__.py`,
-:code:`mycog.py`, and :code:`info.json`. Open the folder in
-a text editor or IDE (examples include `Sublime Text 3 <https://www.sublimetext.com/>`_,
-`Visual Studio Code <https://code.visualstudio.com/>`_, `Atom <https://atom.io/>`_, and
-`PyCharm <http://www.jetbrains.com/pycharm/>`_).
+Hunt: Showdown API is a fan-made API with all the info you need to build your app about the game.
+By all info, I mean weapons, ammo, hunters, DLCs, tools, legendaries and consumables.
+There are no stats or rankings of players as we do not have access to this kind of information.
+
 
 .. attention:: 
-    While you can intentionally override Red's cogs/extensions, this may break things.
-    We would prefer if people wanted custom behavior
-    for any core cog/extension, an issue and/or PR is made
-    Overriding Permissions specifically is dangerous.
+    This site and API is not associated with, endorsed by, or in any other form connected with CRYTEK GMBH or any other company.
+    It's a fan project. If anything is wrong, feel free to contact the author via Twitter @DearVooDoo.
+    Use at your own risk.
+    Good news are, this site does not use cookies and is running in your browser, no data is saved on the server.
+    Links are not affiliate. Only free sharing 
 
-    Subclassing to make changes to Red's cogs/extensions
-    may not be a safe way to stay up to date either,
-    as changes to cogs and their interactions with red
-    are not guaranteed to not be breaking.
-
-    Any cogs doing this are doing so at their own risk,
-    and should also inform users of associated risks.
+    Thanks to Crytek for this amazing game.
 
 --------------
-Creating a cog
+The API ?
 --------------
 
-With your package opened in a text editor or IDE, open :code:`mycog.py`.
-In that file, place the following code:
-
-.. code-block:: python
-
-    from redbot.core import commands
-
-    class MyCog(commands.Cog):
-        """My custom cog"""
-
-        def __init__(self, bot):
-            self.bot = bot
-
-        @commands.command()
-        async def mycom(self, ctx):
-            """This does stuff!"""
-            # Your code will go here
-            await ctx.send("I can do stuff!")
-
-Open :code:`__init__.py`. In that file, place the following:
-
-.. code-block:: python
-
-    from .mycog import MyCog
-
-
-    def setup(bot):
-        bot.add_cog(MyCog(bot))
-
-Make sure that both files are saved.
+The API returns a JSON response by default.
+You can use query in url to request a specific information.
+All list of endpoints and result exemple are available in the category Endpoints.
+.. note::
+    API requests may be rate limited.
+    Go to :doc:`/ratelimitation`
 
 ----------------
-Testing your cog
+How to get image ?
 ----------------
 
-To test your cog, you will need a running instance of V3.
-Assuming you installed V3 as outlined above, run :code:`redbot-setup`
-and provide the requested information. Once that's done, run Red
-by doing :code:`redbot <instance name> --dev` to start Red.
-Complete the initial setup by providing a valid token and setting a
-prefix. Once the bot has started up, use the link provided in the
-console to add it to a server (note that you must have the
-:code:`Manage Server` (or :code:`Administrator`) permission to add bots
-to a server). Once it's been added to a server, find the full path
-to the directory where your cog package is located. In Discord, do
-:code:`[p]addpath <path_to_folder_containing_package>`, then do
-:code:`[p]load mycog`. Once the cog is loaded, do :code:`[p]mycom`
-The bot should respond with :code:`I can do stuff!`. If it did, you
-have successfully created a cog!
+This API can return a path for an image or an icon. 
+You have to build the path yourself. But no worries this simple as fuck.
 
-.. note:: **Package/Folder layout**
+All images are uploaded to my website.
+So take this part :code:`https://huntshowdown.dearvoodoo.com/imgs`
+and just add the path that the API returns.
 
-    You must make sure you structure your local path correctly or 
-    you get an error about missing the setup function. As cogs are 
-    considered packages, they are each contained within separate folders.
-    The folder you need to add using :code:`[p]addpath` is the parent
-    folder of these package folders. Below is an example
+So an image link looks like this:
+:code:`https://huntshowdown.dearvoodoo.com/imgs/ammo/compact/normal_ammo_box.png`
 
-    .. code-block:: none
-
-        - D:\
-        -- red-env
-        -- red-data
-        -- red-cogs
-        ---- mycog
-        ------ __init__.py
-        ------ mycog.py
-        ---- coolcog
-        ------ __init__.py
-        ------ coolcog.py
-    
-    You would then use :code:`[p]addpath D:\red-cogs` to add the path
-    and then you can use :code:`[p]load mycog` or :code:`[p]load coolcog`
-    to load them
-    
-    You can also take a look at `our cookiecutter <https://github.com/Cog-Creators/cog-cookiecutter>`_, for help creating the right structure.
 
 -------------------
-Publishing your cog
+How to use queries ?
 -------------------
 
-Go to :doc:`/guide_publish_cogs`
-
---------------------------------
-Becoming an Approved Cog Creator
---------------------------------
-
-:doc:`/guide_cog_creators` explains the Cog Creator Application process and lists requirements and good practices for Cog Creators.  This information is worth following for anyone creating cogs for Red, regardless of if you plan to publish your cogs or not.
-
---------------------
-Additional resources
---------------------
-
-Be sure to check out the :doc:`/guide_migration` for some resources
-on developing cogs for V3. This will also cover differences between V2 and V3 for
-those who developed cogs for V2.
+Queries are very usefull when you want specific information to be return.
+For example, you want information on the "Bolt Thrower" trait.
+You can use the ID of this trait to directly tell at the API that you want only information with this tag.
+:code:`https://huntshowdown-api.herokuapp.com/trait_info?tag=bolt_thrower`
+You can request more than one information at a time.
