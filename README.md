@@ -1,7 +1,7 @@
 # V1 in development. I finally have time to make this one.
 
-# Hunt-Showdown-API
-Hunt showdown API documentations
+# Hunt: Showdown API (Unofficial)
+Hunt: Showdown API documentations
 
 ## For all documentations please follow the link bellow   
 [API Documentation](https://huntshowdown-api.herokuapp.com)   
