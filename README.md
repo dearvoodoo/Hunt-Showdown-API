@@ -9,7 +9,7 @@ Hunt showdown API documentations
 
 ## Found a Bug ? Report it!
 **Github Bug Reporting**  
-Found a bug? Report. Open a new issue on the Github repo of this API with helpful screenshot or video and detailed explanation.
+Found a bug? Report. [Open a new issue on the Github repo of this API](https://github.com/dearvoodoo/Hunt-Showdown-API/issues) with helpful screenshot or video and detailed explanation.
 
 **Bug Reporting on Discord**  
 Drop your bug along with a helpful screenshot or video and detailed explanation in our #Bug-Report channels on [VooDoo's Discord](https://discord.gg/XeeXPA7).
