@@ -1,11 +1,9 @@
-# V1 in development. I finally have time to make this one.
-
 # Hunt: Showdown API (Unofficial)
 Hunt: Showdown API documentations
 
 ## For all documentations please follow the link bellow   
-[API Documentation](https://huntshowdown-api.herokuapp.com)   
-[Here to learn how to use images](https://huntshowdown-api.herokuapp.com/how-to-use) (Going to change with V1)  
+[API Documentation](https://huntshowdown-api.herokuapp.com) Back soon   
+[Here to learn how to use images](https://huntshowdown-api.herokuapp.com/how-to-use) (Going to change with V2) Back soon
 
 ## Found a Bug ? Report it!
 **Github Bug Reporting**  
@@ -14,6 +12,14 @@ Found a bug? Report. [Open a new issue on the Github repo of this API](https://g
 **Bug Reporting on Discord**  
 Drop your bug along with a helpful screenshot or video and detailed explanation in our #Bug-Report channels on [VooDoo's Discord](https://discord.gg/XeeXPA7).
 
+## [Consider buying us a coffee!](https://ko-fi.com/voodoo_)
+Or you know... help me pay for hosting fees. That works too.
+
 # Credits
 All image here are property of Crytek GMBH.     
 Please read the [Legal](https://www.huntshowdown.com/legal) and [Crytek Terms of Service](https://www.crytek.com/terms) before any misuse.
+
+# Roadmap
+* Have an hosting just for this API
+* Build some tools to help us edit the API
+* User friendly API with documentation
