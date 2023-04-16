@@ -2,8 +2,7 @@
 Hunt: Showdown API documentations
 
 ## For all documentations please follow the link bellow   
-[API Documentation](https://huntshowdown-api.herokuapp.com) Back soon   
-[Here to learn how to use images](https://huntshowdown-api.herokuapp.com/how-to-use) (Going to change with V2) Back soon
+[API Documentation](https://hunt-api.onrender.com/)
 
 ## Found a Bug ? Report it!
 **Github Bug Reporting**  
