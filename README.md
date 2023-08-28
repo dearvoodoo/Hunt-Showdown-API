@@ -22,3 +22,7 @@ Please read the [Legal](https://www.huntshowdown.com/legal) and [Crytek Terms of
 * Have an hosting just for this API
 * Build some tools to help us edit the API
 * User friendly API with documentation
+
+# Adding data to the APi or Edit existing information.
+* Open an issue with the new code or the updated code.
+* VooDoo will add or update the data if needed ;)
