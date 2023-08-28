@@ -2,7 +2,7 @@
 Hunt: Showdown API documentations
 
 ## For all documentations please follow the link bellow   
-[API Documentation](https://hunt-api.onrender.com/)
+[API Documentation](https://dearvoodoo.fr/api/hunt/)
 
 ## Found a Bug ? Report it!
 **Github Bug Reporting**  
