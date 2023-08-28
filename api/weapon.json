@@ -1,65 +1,31 @@
-{
-    "0": {
-        "special": false,
-        "name": "Shotgun",
-        "info": "Very High Damage\nLow Penetration\nLimited Range",
-        "icon": "ammo/shotgun/shotgun.png",
-        "packet": "ammo/shotgun.png",
-        "ammo_box": {
-            "name": "Normal",
-            "image": "ammo/ammo_box.png"
-        }
-    },
-    "1": {
-        "special": false,
-        "name": "Long",
-        "info": "High Damage\nStrong Penetration\nLong Range",
-        "icon": "ammo/long/long.png",
-        "packet": "ammo/long.png",
-        "ammo_box": {
-            "name": "Normal",
-            "image": "ammo/ammo_box.png"
-        }
-    },
-    "2": {
-        "special": false,
-        "name": "Medium",
-        "info": "Moderate Damage\nModerate Penetration\nMedium Range",
-        "icon": "ammo/medium/medium.png",
-        "packet": "ammo/medium.png",
-        "ammo_box": {
-            "name": "Normal",
-            "image": "ammo/ammo_box.png"
-        }
-    },
-    "3": {
-        "special": false,
-        "name": "Compact",
-        "info": "Low Damage\nLow Penetration\nMedium Range",
-        "icon": "ammo/compact/compact.png",
-        "packet": "ammo/compact.png",
-        "ammo_box": {
-            "name": "Normal",
-            "image": "ammo/ammo_box.png"
-        }
-    },
-    "4": {
-        "special": false,
-        "name": "Special",
-        "info": "Very High Damage\nVery Strong Penetration\nMedium Range",
-        "icon": "ammo/special/special.png",
-        "packet": "ammo/special.png",
-        "ammo_box": {
-            "name": "UwU",
-            "image": "ammo/uwu_box.png"
-        }
-    },
-    "5": {
-        "special": true,
-        "name": "Nagant M1895 high Velocity Ammo",
-        "description": "A hot-loaded bullet with a strong powder charge combined with a lighter projectile tip significantly boosts the muzzle velocity, but increases recoil slightly. Great for ranged combat.",
-        "cost": 50,
-        "currency": "Hunt Dollars",
+[
+    {
+        "id": "nagant_m1895",
+        "name": "Nagant M1895",
+        "description": "Modern, Imperial Russian, single-action revolver. Slow to reload. Sacrifices stopping power for an extra bullet in the drum and a higher rate of fire. Can be used for dual wielding.",
+        "category": "Small",
+        "cost": 24,
+        "can_be_dual": true,
+        "unlock": {
+            "rank": null,
+            "condition": null
+        },
+        "ammo": [
+            3
+        ],
+        "special_ammo": [],
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0,
+                "icon": "stats/melee.png"
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0,
+                "icon": "stats/heavy_melee.png"
+            }
+        },
         "stats": [
             {
                 "name": "Capacity",
@@ -105,7 +71,7 @@
             },
             {
                 "name": "Vertical Recoil",
-                "value": 6,
+                "value": 4,
                 "info": "The strength of the vertical recoil (degrees) after a shot.",
                 "icon": "stats/vertical_recoil.png"
             },
@@ -117,7 +83,7 @@
             },
             {
                 "name": "Muzzle Velocity",
-                "value": 490,
+                "value": 330,
                 "info": "The velocity (meters per second) at which the projectile will travel. Heavier projectiles (such as crossbow bolts) travel in a ballistic arc.",
                 "icon": "stats/muzzle_velocity.png"
             },
@@ -140,12 +106,7 @@
                 "icon": "stats/stamina_consumption.png"
             }
         ],
-        "unlock_requirement": null,
-        "icon": "ammo/compact/highvelocity.png",
-        "bullet": "ammo/compact/highvelocity_bullet.png",
-        "ammo_box": {
-            "name": "UwU",
-            "image": "ammo/uwu_box.png"
-        }
+        "image": "weapons/large/nagant_m1895.png",
+        "legendary_skin": []
     }
-}
+]

@@ -1,0 +1,1717 @@
+{
+    "1143840": {
+        "steam_id": 1143840,
+        "name": "Hunt: Showdown - Legends of the Bayou",
+        "detailed_description": "The Legends of the Bayou DLC dives deep into the bayou's dark heart to initiate the full release of Hunt: Showdown and provide those loyal to the cause with two new Legendary Hunter characters and two unique weapons.<br />\r\n<br />\r\nTwo formidable figures are stepping out of the shadows. These exclusive Legendary Hunters take contracts like any other, though their true loyalty remain shrouded in secrecy.<br />\r\n<br />\r\nThe first of these is the Bone Doctor, an influential practitioner of voodoo. He has foreseen the evil, which befell the swamp, long before it even arrived. Now that evil has arrived in force, it has learned to fear the doctor's bleached skull visage, and his necklace of prophecy bones that foretells its own downfall.<br />\r\n<br />\r\nThe Weird Sister is one of The Bone Doctor's most faithful followers. Once called Cora Beukes, her visage has been obscured by the markings and talismans that guarantee her safe travel through this world and the next. <br />\r\n<br />\r\nCopperhead, named for the ubiquitous indigenous snake, is a legendary Nagant M1895. A weapon of distinction, it is only carried by the very first Hunters to reach the bayou, and is all the proof you'll need to show you were here from the start. <br />\r\n<br />\r\nBlood Oath is inscribed with the family oath of the infamous McGowan twins - “Bound in Blood, Two are One” - a saying that has since been repeated by many long-enduring Hunter duos, and a throwback to an era when all Hunters seemed to fight in twos.",
+        "short_description": "The Legends of the Bayou DLC dives deep into the bayou's dark heart to initiate the full release of Hunt: Showdown and provide those loyal to the cause with two new Legendary Hunter characters and two unique weapons.",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1143840/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1143840/ss_2f57f5153993d4238778ec36437503d6e2b0d97d.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1143840/ss_2f57f5153993d4238778ec36437503d6e2b0d97d.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1143840/ss_13026f06039f918b376b8069c5b2f218df63d1a0.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1143840/ss_13026f06039f918b376b8069c5b2f218df63d1a0.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1143840/ss_ea922f976272c2ca6e42e04cb49913af07e11d0c.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1143840/ss_ea922f976272c2ca6e42e04cb49913af07e11d0c.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1143840/ss_a5b15424d0562f1464c740b60c99b6204ce3ce9d.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1143840/ss_a5b15424d0562f1464c740b60c99b6204ce3ce9d.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256760170,
+                "name": "Hunt: Showdown - Legends of the Bayou Trailer",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256760170/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256760170/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256760170/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256760170/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256760170/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "27 Aug, 2019"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1143840/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1143840/page.bg.jpg"
+    },
+    "1166471": {
+        "steam_id": 1166471,
+        "name": "Hunt: Showdown - The Phantom",
+        "detailed_description": "Gus Leroux: A former lawyer with a penchant for violence, this theatrical Hunter covers his scarred visage with a mask—not because he is ashamed of the injuries beneath, but because it terrifies his opponents.",
+        "short_description": "Gus Leroux: A former lawyer with a penchant for violence, this theatrical Hunter covers his scarred visage with a mask—not because he is ashamed of the injuries beneath, but because it terrifies his opponents.",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1166471/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1166471/ss_81395cb22f20ada798fea879ef89565c7eda58f1.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1166471/ss_81395cb22f20ada798fea879ef89565c7eda58f1.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1166471/ss_33ce7a2d8368171c84c1ac8579c12d874c74e97e.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1166471/ss_33ce7a2d8368171c84c1ac8579c12d874c74e97e.1920x1080.jpg"
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "17 Oct, 2019"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1166471/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1166471/page.bg.jpg"
+    },
+    "1166472": {
+        "steam_id": 1166472,
+        "name": "Hunt: Showdown - Last Gust",
+        "detailed_description": "A faithful companion throughout an illustrious career, Alison's Winfield was reliable to the end and a constant, comforting reminder of the home she left behind when she traveled to Louisiana.",
+        "short_description": "A faithful companion throughout an illustrious career, Alison's Winfield was reliable to the end and a constant, comforting reminder of the home she left behind when she traveled to Louisiana.",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1166472/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1166472/ss_69bc06f74d2142e6fd2737f906d20be6fdaaee06.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1166472/ss_69bc06f74d2142e6fd2737f906d20be6fdaaee06.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1166472/ss_f53ff0df2564ea86dc3f56879642f1da13fa07b4.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1166472/ss_f53ff0df2564ea86dc3f56879642f1da13fa07b4.1920x1080.jpg"
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "17 Oct, 2019"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1166472/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1166472/page.bg.jpg"
+    },
+    "1166470": {
+        "steam_id": 1166470,
+        "name": "Hunt: Showdown - Llorona's Heir",
+        "detailed_description": "Much like the legend whose name she uses, Llorona earned her fearsome reputation by drowning her victims and haunting her enemies. Like a shade, she is fast and subtle, with both gun and knife.",
+        "short_description": "Much like the legend whose name she uses, Llorona earned her fearsome reputation by drowning her victims and haunting her enemies. Like a shade, she is fast and subtle, with both gun and knife.",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1166470/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1166470/ss_b3e9ff214432d63fb09de5c92c8b61e6b6a2cbb2.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1166470/ss_b3e9ff214432d63fb09de5c92c8b61e6b6a2cbb2.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1166470/ss_71480872f7b92d066c3078911ee624dcdbd8fdbb.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1166470/ss_71480872f7b92d066c3078911ee624dcdbd8fdbb.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256814564,
+                "name": "Llorona's Heir - Official Trailer",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256814564/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814564/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814564/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814564/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814564/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "17 Oct, 2019"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1166470/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1166470/page.bg.jpg"
+    },
+    "1180491": {
+        "steam_id": 1180491,
+        "name": "Hunt: Showdown - The Researcher",
+        "detailed_description": "Harold Black's Journal, a collection of anatomical sketches, scientific observations and psychological evaluations, constitute most of what the AHA know about their enemy. Black received little success until later in life, when a chance assignment sent it spiraling down a different path. His hodgepodge education, acquired on many walks of life, gave him the unique ability to see connections no one else could, and see reason where others only saw madness.",
+        "short_description": "Harold Black's Journal, a collection of anatomical sketches, scientific observations and psychological evaluations, constitute most of what the AHA know about their enemy. Black received little success until later in life, when a chance assignment sent it spiraling down a different path.",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1180491/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180491/ss_6f6e891abc145051f2e0acdb0b1f4f3f0dd93a27.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180491/ss_6f6e891abc145051f2e0acdb0b1f4f3f0dd93a27.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180491/ss_951c548d1ca5e242fa8d03ae3e501a149bbbe773.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180491/ss_951c548d1ca5e242fa8d03ae3e501a149bbbe773.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256814583,
+                "name": "The Researcher - Official trailer",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256814583/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814583/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814583/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814583/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814583/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "18 Dec, 2019"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1180491/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1180491/page.bg.jpg"
+    },
+    "1180490": {
+        "steam_id": 1180490,
+        "name": "Hunt: Showdown - The Rat",
+        "detailed_description": "There are two kinds of people in the world, those living on the right side of the law, and those living on the wrong. Tona Ramirez was the second kind from birth. When she buried her father in an unmarked grave on the border, she took her inheritance: his nickname and a story of a man robbed of fortune. The Rat seeks that fortune now, and that search is what brought her to Louisiana.",
+        "short_description": "There are two kinds of people in the world, those living on the right side of the law, and those living on the wrong. Tona Ramirez was the second kind from birth. When she buried her father in an unmarked grave on the border, she took her inheritance: his nickname and a story of a man robbed of fortune.",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1180490/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180490/ss_e27db7846049da6760396907cd694378e5eb6410.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180490/ss_e27db7846049da6760396907cd694378e5eb6410.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180490/ss_96d757a7f7a40e23cc24d7add1f08a4a08ebdbc2.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180490/ss_96d757a7f7a40e23cc24d7add1f08a4a08ebdbc2.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256814563,
+                "name": "The Rat - Official Trailer",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256814563/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814563/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814563/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814563/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814563/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "18 Dec, 2019"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1180490/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1180490/page.bg.jpg"
+    },
+    "1225140": {
+        "steam_id": 1225140,
+        "name": "Hunt: Showdown - Zhong Kui",
+        "detailed_description": "Hunt's Zhong Kui DLC features two new Legendary Hunters - the eponymous Zhong Kui and the ominous Dead Blessing - and a new Legendary Blade, the Blood Orchid. <br />\r\nZhong Kui is the descendant of long line of demon hunters, historically celebrated on the Chinese New Year as a banisher of malignant spirits. <br />\r\nDead Blessing is the dark inversion of a symbol of good luck and one bet away from the promise of a peaceful end. <br />\r\nBlood Orchid is a revered blade, in the traditional Chinese Dao style, ornamented with a flowing red sash that brings luck to the wielder.",
+        "short_description": "Hunt's Zhong Kui DLC features two new Legendary Hunters - the eponymous Zhong Kui and the ominous Dead Blessing - and a new Legendary Blade, the Blood Orchid.",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1225140/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1225140/ss_6ec3ed702ef944a6f24b80946bc66f3ec4e03eee.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1225140/ss_6ec3ed702ef944a6f24b80946bc66f3ec4e03eee.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1225140/ss_16062b40beb5979ce2fb4dd2e24027cb20fcda89.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1225140/ss_16062b40beb5979ce2fb4dd2e24027cb20fcda89.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1225140/ss_59c7833568ff682b703acf9c7122503d413cb974.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1225140/ss_59c7833568ff682b703acf9c7122503d413cb974.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1225140/ss_60f67e0b170c66905fa79676d05b0b5384b7c6e1.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1225140/ss_60f67e0b170c66905fa79676d05b0b5384b7c6e1.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256814584,
+                "name": "Zhong Kui - Official trailer",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256814584/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814584/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814584/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814584/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814584/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "23 Jan, 2020"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1225140/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1225140/page.bg.jpg"
+    },
+    "1234950": {
+        "steam_id": 1234950,
+        "name": "Hunt: Showdown - Soundtrack",
+        "detailed_description": "The official Hunt: Showdown soundtrack features six original songs - including the game's iconic &quot;Humming Theme&quot; Rise Up Dead Man. Soundtrack includes both mp3s and high-resolution audio files.",
+        "short_description": "The official Hunt: Showdown soundtrack features six original songs - including the game's iconic &quot;Humming Theme&quot; Rise Up Dead Man. Soundtrack includes both mp3s and high-resolution audio files.",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1234950/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1234950/ss_0cdeb142841c6a43417b7e0cdffc19fd28729607.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1234950/ss_0cdeb142841c6a43417b7e0cdffc19fd28729607.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1234950/ss_bedd21fb356a8e5aaf206d8a4ddb973f776a24c1.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1234950/ss_bedd21fb356a8e5aaf206d8a4ddb973f776a24c1.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1234950/ss_42ac6e05a3985b9c088c8506e272c95308480292.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1234950/ss_42ac6e05a3985b9c088c8506e272c95308480292.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1234950/ss_a9ddf0b0adf8bdbe5d577a74f573c1ee3715269b.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1234950/ss_a9ddf0b0adf8bdbe5d577a74f573c1ee3715269b.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1234950/ss_554b51c5ae9ef8c37a9f86856c5060868d3adcf7.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1234950/ss_554b51c5ae9ef8c37a9f86856c5060868d3adcf7.1920x1080.jpg"
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "11 Feb, 2020"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1234950/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1234950/page_bg_generated.jpg"
+    },
+    "1228530": {
+        "steam_id": 1228530,
+        "name": "Hunt: Showdown - Fire Fight",
+        "detailed_description": "<u><strong>Algiers Phoenix: </strong></u>Christened by the New Orleans Fire Department, the Algiers Phoenix helped several victims “rise from the ashes” when it freed them from the flames devouring the Algiers neighborhood. A heavy knife handy both in an emergency and in the field.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1228530/extras/Algiers_Phoenix.png\" /><br><br><u><strong>Fire Torn:</strong></u> Charred but not destroyed, this Sparks LRR is not a testament to the destructive power of fire, but to the resilience of that which withstands it. A symbol of hope for rejuvenation.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1228530/extras/Fire_Tom.png\" />",
+        "short_description": "This bundle contains two weapons themed around historical New Orleans fire fighters.",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1228530/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1228530/ss_e1f762a74e48f42660f2e5e78cb726b47aa4eafb.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1228530/ss_e1f762a74e48f42660f2e5e78cb726b47aa4eafb.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1228530/ss_8a72e720ad05c874dafbd38ca3f3894d996e07b6.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1228530/ss_8a72e720ad05c874dafbd38ca3f3894d996e07b6.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1228530/ss_d98d6b3ee36ee266135d0945d2491d0ce800e25d.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1228530/ss_d98d6b3ee36ee266135d0945d2491d0ce800e25d.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1228530/ss_81080f01fc9c96a62e5e30897e7b2823adc16081.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1228530/ss_81080f01fc9c96a62e5e30897e7b2823adc16081.1920x1080.jpg"
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "13 Feb, 2020"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1228530/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1228530/page.bg.jpg"
+    },
+    "1191490": {
+        "steam_id": 1191490,
+        "name": "Hunt: Showdown - Louisiana Legacy",
+        "detailed_description": "The Louisiana Legacy DLC contains two illustrious firearms: Mountain Air and Antebellum Wit. <br><br><strong><u>The Mountain Air </u></strong>is a Vetterli 71 Karabiner that hails from Alpine old country and bears an abstract patterned engraving that at once encapsulates budding dew, fertile valleys; and shearing winds. <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1191490/extras/Mountain_Air.png\" /><br><br><strong><u>Antebellum Wit </u></strong>is a Romero 77 Handcannon that recalls a bygone era's charm. A nickel-plated barrel and receiver with exquisite gold detailing is tastefully matched with an ivory colored engraved stock. Discrete in size but ostentatious in display.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1191490/extras/Antebellum_wit.png\" />",
+        "short_description": "The Louisiana Legacy DLC contains two illustrious firearms: Mountain Air and Antebellum Wit.",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1191490/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1191490/ss_e1d11a25a62868eacc77b59a7ae3ee68eb8055f1.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1191490/ss_e1d11a25a62868eacc77b59a7ae3ee68eb8055f1.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1191490/ss_959f9c600f36221f415d58da7b1bb685739f98e9.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1191490/ss_959f9c600f36221f415d58da7b1bb685739f98e9.1920x1080.jpg"
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "27 Apr, 2020"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1191490/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1191490/page.bg.jpg"
+    },
+    "1255001": {
+        "steam_id": 1255001,
+        "name": "Hunt: Showdown - The Arcane Archaeologist",
+        "detailed_description": "The Archaeologist <br />\r\nElise Austin made her name trying to understand and protect the archaeological footprints of the Hopi people. This led her to the legend of The Destruction of Palatkwapi, a myth with which she became obsessed - to the detriment of her hard-won reputation. Drifting through the desert, a dream came to her: two children tumbling into black water. Recognizing the image's importance, she followed it, like so many others, into the bayou. <br />\r\n<br />\r\nMesa Updraught <br />\r\nAccompanying the Archaeologist on her desert treks, this Vetterli 71 Deadeye was most at home perched on the rock face of a mesa, scanning the scrub plain for hostiles, and eliminating them.",
+        "short_description": "The Archaeologist Elise Austin made her name trying to understand and protect the archaeological footprints of the Hopi people. This led her to the legend of The Destruction of Palatkwapi, a myth with which she became obsessed - to the detriment of her hard-won reputation.",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1255001/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1255001/ss_160b6e734bc056e9119d6eb1ad3bc1fe01b3ab20.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1255001/ss_160b6e734bc056e9119d6eb1ad3bc1fe01b3ab20.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1255001/ss_e90d63ae7765555513f545708bdc7fddac9b7ec5.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1255001/ss_e90d63ae7765555513f545708bdc7fddac9b7ec5.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256814553,
+                "name": "The Archaeologist - Official Trailer",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256814553/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814553/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814553/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814553/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814553/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "6 May, 2020"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1255001/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1255001/page.bg.jpg"
+    },
+    "1255000": {
+        "steam_id": 1255000,
+        "name": "Hunt: Showdown - Crossroads",
+        "detailed_description": "In folklore, the Crossroads is a place situated between worlds, where one might encounter the supernatural, or make a deal with the devil.<br />\r\nHunt: Showdown's Crossroads weapon pack contains four weapons for Hunters of refined skill and taste - three firearms and a bomb lance. Add them to your arsenal at your enemies' peril.<br />\r\n<br />\r\nThe weapons:<br />\r\n<br />\r\nShellback<br />\r\nFor the sailors who came and fought their way to the top of the AHA, the Shellback bomb lance was the weapon of choice for harpooning enemies both in water and on land. Both intimate and deadly.<br />\r\n<br />\r\nBaptismal Blood<br />\r\nThis Mosin-Nagant Avtomat is presented to Acolytes of the Night for their final initiation rite. If they pass or fail, they add either their enemies' blood, or their own bone. <br />\r\n<br />\r\nSinner's Prayer<br />\r\nThe fine steel ornamentation on this Nitro Express is fit for a king - but the Sinners forfeit all titles. Those who carry it into the Louisiana swamps find themselves lords of a dark kingdom indeed.<br />\r\n<br />\r\nRite of Passage<br />\r\nEach who has risen in the ranks and completed the ritual should bear a sign of their prestige. For those who have made it, that sign is this Dolch, friend and companion for the darkest of trials.",
+        "short_description": "Hunt: Showdown's Crossroads weapon pack contains four weapons for Hunters of refined skill and taste - three firearms and a bomb lance. Add them to your arsenal at your enemies' peril.",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1255000/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1255000/ss_48a70047657245fa24c798342a6cb624f738618e.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1255000/ss_48a70047657245fa24c798342a6cb624f738618e.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1255000/ss_cd52e045773ba7404ba5ada68d3a0c25749780e9.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1255000/ss_cd52e045773ba7404ba5ada68d3a0c25749780e9.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1255000/ss_36dc349e04860ce61598400e390a67f0202b43ac.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1255000/ss_36dc349e04860ce61598400e390a67f0202b43ac.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1255000/ss_e6335a736157cfbdb2bb434e3faad19f02777db6.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1255000/ss_e6335a736157cfbdb2bb434e3faad19f02777db6.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256814550,
+                "name": "Crossroads - Official Trailer",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256814550/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814550/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814550/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814550/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814550/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "13 May, 2020"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1255000/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1255000/page.bg.jpg"
+    },
+    "1304600": {
+        "steam_id": 1304600,
+        "name": "Hunt: Showdown - The Revenant",
+        "detailed_description": "The Revenant DLC includes the irascible gambler of legend and his weapon:<br />\r\n- The Revenant (one Hunter)<br />\r\n- Caldwell Snake Eyes (one weapon)",
+        "about_the_game": "The Revenant DLC includes the irascible gambler of legend and his weapon:<br />\r\n- The Revenant (one Hunter)<br />\r\n- Caldwell Snake Eyes (one weapon)",
+        "short_description": "The Revenant DLC includes the irascible gambler of legend and his weapon: - The Revenant (one Hunter) - Caldwell Snake Eyes (one weapon)",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1304600/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1304600/ss_9dbb62285eb908f8014599d6758af06a33fbdfec.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1304600/ss_9dbb62285eb908f8014599d6758af06a33fbdfec.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1304600/ss_787d546b477052d94d7c59962b0698dcdfd873e9.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1304600/ss_787d546b477052d94d7c59962b0698dcdfd873e9.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1304600/ss_5dcdd6fe617856a9daa8ab8db62a93e066bdbce5.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1304600/ss_5dcdd6fe617856a9daa8ab8db62a93e066bdbce5.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256814551,
+                "name": "The Revenant - Official trailer",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256814551/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814551/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814551/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814551/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814551/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "28 Jul, 2020"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1304600/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1304600/page.bg.jpg"
+    },
+    "1304601": {
+        "steam_id": 1304601,
+        "name": "Hunt: Showdown - Double or Nothing",
+        "detailed_description": "Don't be a plaything to fate: grab a hold of it with both hands - and make sure you have a gun in each one. This Hunt: Showdown DLC includes six Legendary pistols particularly suited to dual-wielding. Use them separately, or combine them to double your firepower with Jekyll and Hyde, Ethyl and Jana, and Dusk and Dawn.<br><br><strong>Hyde</strong><br><br>A reflection on the duality of man, this Caldwell is one of two that toe the line between dark and light, evil and good. Hyde is an instrument of revenge, murder and spite, but needs Jekyll to temper its extremes.<br><br><strong>Dusk</strong><br><br>Silence is golden when it comes to stealth, and against the black night of pestilence, this Nagant Silencer is one of two that mark the edges of the dark. Dusk shines bright as Arsu, God of the evening star, yet will always be defined by the arrival of Dawn.<br><strong><br>Dawn</strong><br><br>Silence is golden when it comes to stealth, and against the black night of pestilence, this Nagant Silencer is one of two that mark the edges of the dark. Dawn shines bright as Azizos, God of the morning star, yet will always recede to allow the arrival of Dusk.<br><br><strong>Ethyl</strong><br><br>One of two LeMats designed in honor of the hard-riding, quick-shooting, stagecoach-roping twins of Wild West touring show legend. Ethyl is the bolder and brasher of the two, but will always need Jana to think things through.<br><br><strong>Jana</strong><br><br>One of two LeMats designed in honor of the hard-riding, quick-shooting, stagecoach-roping twins of Wild West touring show legend. Jana is the smarter and cooler of the two, but will always need Ethyl to leap before looking.",
+        "short_description": "This Hunt: Showdown DLC includes six Legendary pistols particularly suited to dual-wielding. Use them separately, or combine them to double your firepower with Jekyll and Hyde, Ethyl and Jana, and Dusk and Dawn.",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1304601/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1304601/ss_1ad6f09e5dfebb6937dfde3995c5e5fad64b43cc.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1304601/ss_1ad6f09e5dfebb6937dfde3995c5e5fad64b43cc.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1304601/ss_05dbd385f0ca1c92a2cd861c6e19ac166910a7c9.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1304601/ss_05dbd385f0ca1c92a2cd861c6e19ac166910a7c9.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1304601/ss_532626a9b51d20636c31c7cc5625025960453979.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1304601/ss_532626a9b51d20636c31c7cc5625025960453979.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256814549,
+                "name": "Double or Nothing",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256814549/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814549/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814549/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256814549/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256814549/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "11 Aug, 2020"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1304601/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1304601/page.bg.jpg"
+    },
+    "1374340": {
+        "steam_id": 1374340,
+        "name": "Hunt: Showdown - Live by the Blade",
+        "detailed_description": "Farrier's Fist<br />\r\nForged in a dying fire, the Farrier's Fist puts the rough in roughshod. A horseshoe turned-melee-weapon, these improvised dusters have helped more than one Hunter out of a tough spot.<br />\r\n<br />\r\nReaper's Hand<br />\r\nMore than just a farm tool repurposed as a heavy knife, the Reaper's Hand gained infamy thanks to its deadly silhouette, striking terror in the heart of timid Hunters.<br />\r\n<br />\r\nThe Rasp<br />\r\nAmong the cruelest of weapons found in the bayou, pray that when you face The Rasp your killer uses it as a knuckle knife. Its first owner, notoriously cruel, was fond of using it for its original purpose: as a drill.<br />\r\n<br />\r\nMalice<br />\r\nCrafted with rage and wielded with malice, this gruesome combat axe came to be when a desperate Hunter was forced to repair the blade in the field with barbed wire in the midst of a revenge-fueled melee slaughter.",
+        "short_description": "Live by the Blade includes 4 new weapons - -Farrier's Fist -Reaper's Hand -The Rasp -Malice",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1374340/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1374340/ss_6ae0a858b4fff7222da12090f055da80f8cd72c1.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1374340/ss_6ae0a858b4fff7222da12090f055da80f8cd72c1.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1374340/ss_cdad417c9848a630c6080113595925253cdd13d8.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1374340/ss_cdad417c9848a630c6080113595925253cdd13d8.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1374340/ss_a2f8d781111cf5bb63f6c1fc5d57278dab74cf72.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1374340/ss_a2f8d781111cf5bb63f6c1fc5d57278dab74cf72.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1374340/ss_7c15867edde55846edad1327e9dcf1ede8a2ec2d.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1374340/ss_7c15867edde55846edad1327e9dcf1ede8a2ec2d.1920x1080.jpg"
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "13 Oct, 2020"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1374340/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1374340/page.bg.jpg"
+    },
+    "1397380": {
+        "steam_id": 1397380,
+        "name": "Hunt: Showdown - Ronin",
+        "detailed_description": "This DLC contains two gruesome weapons and one legendary hunter -<br><br><strong><u>The Tanto </u></strong><br>The Ronin has worn this blade since the day of his oath. During his travels across land and sea, it has been a loyal companion - as keen for fresh blood as its carrier.   <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1397380/extras/00019.png\" /><br><br><strong><u>Seinan Sharpshooter </u></strong>                                                                                                                                                    <br>The Ronin briefly fought with the last samurai during the Seinan War, pledging himself to Saigō Takamori. There, he gained notoriety for his deadly use of his Springfield 1866, one of the most advanced weapons on the field.   <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1397380/extras/00014.png\" /><br><br><strong><u>The Ronin </u></strong><br>Inuta Bakin had barely sworn his oath of allegiance before the Tokugawa shogunate was disposed. Without a master, he has wandered further than most Ronin, seeking the power to take revenge. Something of a traditionalist, he dresses and fights in a style stretching back centuries, but still effective: his leering Oni mask has been the last sight of many to fall in the bayou.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1397380/extras/hmus_lgnd_ronin.png\" />",
+        "short_description": "This DLC contains two gruesome weapons and one legendary hunter - The Tanto (Weapon) Seinan Sharpshooter (Weapon) The Ronin (Legendary Hunter)",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1397380/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1397380/ss_72a0e9f497d8606a02da905cb350c144b8c55267.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1397380/ss_72a0e9f497d8606a02da905cb350c144b8c55267.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1397380/ss_cc571d7e2a0b2a9bad189172ea952e0195af1218.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1397380/ss_cc571d7e2a0b2a9bad189172ea952e0195af1218.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1397380/ss_52d413605f4483d3f6cad88617fa8b1af47b791f.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1397380/ss_52d413605f4483d3f6cad88617fa8b1af47b791f.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256815847,
+                "name": "Ronin - official trailer",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256815847/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256815847/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256815847/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256815847/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256815847/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "14 Dec, 2020"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1397380/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1397380/page.bg.jpg"
+    },
+    "1397381": {
+        "steam_id": 1397381,
+        "name": "Hunt: Showdown - The Trick Shooter",
+        "detailed_description": "This DLC contains two gruesome weapons and one legendary hunter:<br><br>Carter<br>William Carter was a sharpshooter, and the inventor of many a curious new attraction for the Wild West Shows he starred in. Ever the showman, he fictionalized most of his life story, and though no one knows his true origins two things are clear: he's a fearsome shot with an extravagant sense of humor - and adventure.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1397381/extras/hmus_lgnd_trickshooter__1_.png\" /><br><br>Bear's Leg<br>This Winfield M1873C Vandal Deadeye played center stage in Carter's show. He dazzled the crowd, cocking it with extravagant spins, the stage lights glinting on the pearlescent lens and gold-inlay bear.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1397381/extras/bearsleg__1_.png\" /><br><br>Carter's Quickshot<br>Gifted to the sharpshooter William Carter, this personalized Specter is ideal for pulling off fast shooting sequences to dazzle spectators and intimidate foes.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1397381/extras/carter_squickshot__1_.png\" />",
+        "short_description": "This DLC contains two gruesome weapons and one legendary hunter:",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1397381/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1397381/ss_5ebe6205743e5615858cab07939e049499502ff7.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1397381/ss_5ebe6205743e5615858cab07939e049499502ff7.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1397381/ss_9154cd6c06a2483a01613146dcec700e69e9745e.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1397381/ss_9154cd6c06a2483a01613146dcec700e69e9745e.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1397381/ss_96068b4d240e0c5fe511a5d39f587e9c65c6e9e5.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1397381/ss_96068b4d240e0c5fe511a5d39f587e9c65c6e9e5.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1397381/ss_14442750b87918fdc0779449e925a7ebb647d531.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1397381/ss_14442750b87918fdc0779449e925a7ebb647d531.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1397381/ss_dd7fe261cb065a0f12926bff524e6fafdfe31ddc.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1397381/ss_dd7fe261cb065a0f12926bff524e6fafdfe31ddc.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1397381/ss_9a673004daf62412d2860c420117e6c2fb3084bb.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1397381/ss_9a673004daf62412d2860c420117e6c2fb3084bb.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256818628,
+                "name": "Trick Shooter - official trailer",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256818628/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256818628/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256818628/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256818628/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256818628/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "21 Jan, 2021"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1397381/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1397381/page.bg.jpg"
+    },
+    "1530430": {
+        "steam_id": 1530430,
+        "name": "Hunt: Showdown - Spirit of Nian",
+        "detailed_description": "This DLC includes: North Star (Legendary Hunter), The Sovereign (Legendary Hunter), Sniper's Gift (Legendary Nagant Officer Carbine), Dragon's Song (Legendary Blank Fire Decoys), and Fire Monkey (Legendary Fusees).<br><br>Hunt's two newest Legendary Hunters have travelled a long way to get to Louisiana - and they've brought a new Legendary Nagant, Blank Fire Decoys, and Fusees along with them to aid us all in the fight against the creatures that lurk in the bayou. <br><br>Many think the monster is only a legend. Many think the fight is only a symbol. But each Spring, Nian marks the turning of the year by coming out to hunt, devouring livestock and shredding human flesh between its murderous teeth. Spring is approaching again, and as local Hunters will tell you, Nian is no symbol; Nian is a symptom - of the Sculptor's influence - and an enemy against which many Chinese Hunters cut their teeth and learn their trade. <br><br>After facing Nian year after year with brutal, bloody success, these two Legendary Hunters immigrated to the United States in late 1895, in spite of the Geary Act, with help from both Trevors and Huff. Their skills would prove invaluable in the fight against the corruption in Louisiana, as well as the weapons and tools they brought with them. In 1896, the Chinese New Year would begin on the 13th: a bad omen for what would happen that year in Louisiana.<br><br><br><strong>North Star</strong> (Legendary Hunter)<br>A student of mythology and a master of the Five Forms, Chen Lan answered the call for aid from the American Hunter's Association, eager to gain knowledge that might aid the fight on her home turf. She keeps silent about the details of her journey from the Fujian province to New Orleans, though her skill with a gun and fondness for violence speaks volumes about the red trail she cut from East to West. <br><br><strong>The Sovereign </strong>(Legendary Hunter)<br>An expert strategist and sniper of otherworldly skill, Xiao Feng left Fujian province with his hunting partner, Chen Lan, crossing the globe in a sweep of bloody encounters over land and sea. Rumors of the duo's deadly skill preceded their arrival in New Orleans, and they were welcomed into the fold of the AHA with reverence befitting the highest nobility.<br><br><strong>Sniper's Gift </strong>(Legendary Nagant Officer Carbine)<br>Before beginning the treacherous journey from Fujian to Louisiana, Xiao Feng's Father - a fellow Hunter - gifted him this Nagant - a symbol of the success he would achieve when he put to use in the bayou. <br><br><strong>Dragon's Song</strong> (Legendary Blank Fire Decoys) <br>When the crackling of burning bamboo is not enough to scare off Nian (or worse), a handful of decoys should do the trick - and this lucky set will work on both brethren and beast in the Bayou.<br><br><strong>Fire Monkey</strong> (Legendary Fusees)<br>According to the zodiac, 1896 was the year of the Fire Monkey, and these fusees were named for the year of their debut in the Bayou.",
+        "short_description": "This DLC includes: North Star (Legendary Hunter), The Sovereign (Legendary Hunter), Sniper's Gift (Legendary Nagant Officer Carbine), Dragon's Song (Legendary Blank Fire Decoys), and Fire Monkey (Legendary Fusees).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1530430/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1530430/ss_e83e88b4d840e9dfc631f84da27f8b696dc3cf80.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1530430/ss_e83e88b4d840e9dfc631f84da27f8b696dc3cf80.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1530430/ss_ab3ae622e8dd44ff4cd6188ab599209e0b7d3fca.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1530430/ss_ab3ae622e8dd44ff4cd6188ab599209e0b7d3fca.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1530430/ss_b515f157516cd771daf018f7bc81825125771342.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1530430/ss_b515f157516cd771daf018f7bc81825125771342.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1530430/ss_eabbe69beb3fa06af7195f229d4eb935d24bb22a.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1530430/ss_eabbe69beb3fa06af7195f229d4eb935d24bb22a.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1530430/ss_d7ff18f3866c3f3520050273707455b164bf2fc1.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1530430/ss_d7ff18f3866c3f3520050273707455b164bf2fc1.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256821132,
+                "name": "Spirit_of_Nian_Official Trailer",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256821132/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256821132/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256821132/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256821132/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256821132/movie_max.mp4"
+                }
+            }
+        ],
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1530430/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1530430/page.bg.jpg",
+        "release_date": {
+            "coming_soon": false,
+            "date": "11 Feb, 2021"
+        }
+    },
+    "1576410": {
+        "steam_id": 1576410,
+        "name": "Hunt: Showdown - The Prodigal Daughter",
+        "detailed_description": "The Prodigal Daughter DLC contains: The Prodigal Daughter (Legendary Hunter), The Harbinger (Legendary Caldwell Pax), and The Reckoning (Legendary Sparks LRR). <br />\r\n<br />\r\nMany come to the Bayou to forget their past. But Sarah Burton came to confront it, bringing along a Caldwell, a Sparks LRR, and a hunger for revenge. <br />\r\n<br />\r\nBurton's mother had risked life and limb during the Civil War to pass information to the Union. After the war, her deeds were recognized and celebrated, and she received a uniform symbolic of that final victory. Through her death, that uniform was passed down to her daughter - alongside a dark legacy, mottled with betrayal, cruelty, and treachery.  <br />\r\n<br />\r\nThe flowers still fresh on her mother's grave, Burton set out for Louisiana, where she vowed to destroy those who had had a hand in her mother's death. Through her handiwork with The Harbinger and The Reckoning, Burton became notorious in the bayou, allowing rumors to circulate that she was a veteran herself, ageless, reincarnated to channel a restless spirit of revenge.",
+        "short_description": "The Prodigal Daughter DLC contains: The Prodigal Daughter (Legendary Hunter), The Harbinger (Legendary Caldwell Pax), and The Reckoning (Legendary Sparks LRR).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1576410/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1576410/ss_6d32d3a4eef88414fcd0c6c992cba82c0728ca76.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1576410/ss_6d32d3a4eef88414fcd0c6c992cba82c0728ca76.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1576410/ss_382527da2b6f8ffc25d23409f5aa604727fd7ec8.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1576410/ss_382527da2b6f8ffc25d23409f5aa604727fd7ec8.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1576410/ss_86f90846655154fc61f65623823ab1de1cd534c7.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1576410/ss_86f90846655154fc61f65623823ab1de1cd534c7.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1576410/ss_529106aad4b8c2c96b6b2d7c496b611447b64520.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1576410/ss_529106aad4b8c2c96b6b2d7c496b611447b64520.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256826989,
+                "name": "Prodigal Daughter - Official Trailer",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256826989/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256826989/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256826989/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256826989/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256826989/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "22 Mar, 2021"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1576410/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1576410/page.bg.jpg"
+    },
+    "1586080": {
+        "steam_id": 1586080,
+        "name": "Hunt: Showdown - The Wolf at the Door",
+        "detailed_description": "This DLC contains four Legendary weapons: Rougarou (Mosin Nagant Obrez), Once Bitten (Lebel 1886 Marksman), Blood Moon (Crown &amp; King Auto-5), and Midnight Howl (Caldwell Conversion Uppercut). <br />\r\n<br />\r\n<br />\r\nThe wolf is one of nature's most accomplished hunters, and those seeking to channel the animal's efficient brutality will want this set of new Legendary weapons in their arsenal, weapons that bear witness to their skill in hunting and tracking, to local werewolf legends, and to the influence of the heavens. Controlled by bloodlust, hunger, and the undeniable pull of the moon - we fear wolves; we are wolves. And from wolves, we Hunters have much to learn.",
+        "short_description": "This DLC contains four Legendary weapons: Rougarou (Mosin Nagant Obrez), Once Bitten (Lebel 1886 Marksman), Blood Moon (Crown &amp; King Auto-5), and Midnight Howl (Caldwell Conversion Uppercut).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1586080/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1586080/ss_313c295578c61e068e3166a60bc8204558e3befc.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1586080/ss_313c295578c61e068e3166a60bc8204558e3befc.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1586080/ss_0a642cd6e7db1172cd07b56786e7ad5896afaa08.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1586080/ss_0a642cd6e7db1172cd07b56786e7ad5896afaa08.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1586080/ss_fcfca134bc119f65f4ed07ddd0696512824247cf.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1586080/ss_fcfca134bc119f65f4ed07ddd0696512824247cf.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1586080/ss_5894c2025abd967c66b041b52a42f0497b9908cf.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1586080/ss_5894c2025abd967c66b041b52a42f0497b9908cf.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1586080/ss_8b046b1057a5c8adcb4233211463106a35c4762d.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1586080/ss_8b046b1057a5c8adcb4233211463106a35c4762d.1920x1080.jpg"
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "28 Apr, 2021"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1586080/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1586080/page.bg.jpg"
+    },
+    "1610550": {
+        "steam_id": 1610550,
+        "name": "Hunt: Showdown - The Committed",
+        "detailed_description": "This DLC contains one Legendary Hunter (Monroe), a Legendary knife (Pane), and a Legendary Romero 77 (Lock and Key). <br />\r\n<br />\r\nHenry Monroe was committed first to the asylum to his detriment, then to escape by whatever means necessary. The first attempt ended in Monroe gaining the attention of Huff himself, but it was not totally in vain, a shard of window - Pane - scavenged from the floor would become Monroe's signature of sorts. His real escape came during a moment of chaos and confusion, when the warden's infamous Romero - Lock and Key - became his possession. Destitute in the bayou, hunting was his only recourse, and belied a new commitment: to survive and to spite those who'd caused his suffering.",
+        "short_description": "This DLC contains one Legendary Hunter (Monroe), a Legendary knife (Pane), and a Legendary Romero 77 (Lock and Key).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1610550/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1610550/ss_e6ff5947975859f3d315c227f25f2c4066da7427.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1610550/ss_e6ff5947975859f3d315c227f25f2c4066da7427.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1610550/ss_c586a3e2d6bb014d0e0abc1fea4bdcbf463137b9.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1610550/ss_c586a3e2d6bb014d0e0abc1fea4bdcbf463137b9.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1610550/ss_6affcd8e762525073bf5440f676be903ed325b2d.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1610550/ss_6affcd8e762525073bf5440f676be903ed325b2d.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256836168,
+                "name": "Hunt: Showdown  - The Committed Official Trailer",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256836168/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256836168/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256836168/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256836168/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256836168/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "26 May, 2021"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1610550/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1610550/page.bg.jpg"
+    },
+    "1643020": {
+        "steam_id": 1643020,
+        "name": "Hunt: Showdown - The Beast Hunter",
+        "detailed_description": "This DLC contains one Legendary Hunter and two Legendary weapons: The Beast Hunter, The Bark (Romero 77 Hatchet), and The Bite (Crossbow). <br />\r\n<br />\r\nFor as long as he could remember, Theodore Tuck was plagued by the same nightmare. In marsh blanketed in fog, Tuck would find himself surrounded by sharp gnashing teeth, frothing with spittle and blood as they snarled and snapped, desperate to tear the flesh from his bones. Sometimes there would be hundreds; sometimes only one. And each morning he would awaken with a fresh new scar. <br />\r\n<br />\r\nCertain that the dreams were an ill-omen and determined to face his fears and destroy them at the root, Tuck searched field, forest, and mountain the country over, finally coming face to face with those nightmarish creatures in Louisiana. He proved his mettle hunting the beasts of the Bayou and through his skill with animals, but when he set out to tame the hellhounds themselves, even most Hunters thought he'd gone too far. His attempts earned him infamy - and many additional scars.",
+        "short_description": "This DLC contains one Legendary Hunter and two Legendary weapons: The Beast Hunter, The Bark (Romero 77 Hatchet), and The Bite (Crossbow).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1643020/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1643020/ss_8f85a63f9282e9a0efe26a2490af12c82aeb1bd6.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1643020/ss_8f85a63f9282e9a0efe26a2490af12c82aeb1bd6.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1643020/ss_1d65908bcd264720ab34c8adc4c867be0f06b80d.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1643020/ss_1d65908bcd264720ab34c8adc4c867be0f06b80d.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1643020/ss_85853c42aaed3ccfcc86cf80e29587d1bb440355.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1643020/ss_85853c42aaed3ccfcc86cf80e29587d1bb440355.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256840353,
+                "name": "Hunt: Showdown - The Beast Hunter",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256840353/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256840353/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256840353/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256840353/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256840353/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "24 Jun, 2021"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1643020/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1643020/page.bg.jpg"
+    },
+    "1674580": {
+        "steam_id": 1674580,
+        "name": "Hunt: Showdown - Through the Bone Briar",
+        "detailed_description": "This DLC contains one Legendary Hunter (Cain), a Legendary Winfield M1873C Vandal Striker (Nightmare), and a Legendary Specter 1882 Bayonet (Bone Briar). <br />\r\n<br />\r\nThe bones of the dead litter the bayou, picked clean, piled high into thickets and briars, pallid in the glow of the fires set by hunters. It's easy to get lost amongst them, and easier to fall prey to the lurkers who lost themselves there long ago. First amongst these lost souls is Cain, who's said to have made the greatest sacrifice, and pays his penance with primal fury.  <br />\r\n<br />\r\nCain lost the man he once was long ago. But the memories of that man wait in the dark, horrors that feast on his desiccated mind at night. Cain carries Nightmare not to ward them off, but to keep them coming, their pull towards death the only reminder of all that has been lost. The Bone Briar keeps Cain oriented on his journey, lest he becomes lost in the labyrinth he's built of the dead.",
+        "short_description": "This DLC contains one Legendary Hunter (Cain), a Legendary Winfield M1873C Vandal Striker (Nightmare), and a Legendary Specter 1882 Bayonet (Bone Briar).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1674580/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1674580/ss_4572c76f50479ae6560b092f14ba116f69f4ae23.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1674580/ss_4572c76f50479ae6560b092f14ba116f69f4ae23.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1674580/ss_e51200201b21c0c4e38c709336bd2f577d763a02.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1674580/ss_e51200201b21c0c4e38c709336bd2f577d763a02.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1674580/ss_0715a148f7bfa66daff03ca0e9bb297d322949d5.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1674580/ss_0715a148f7bfa66daff03ca0e9bb297d322949d5.1920x1080.jpg"
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "29 Jul, 2021"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1674580/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1674580/page.bg.jpg"
+    },
+    "1674570": {
+        "steam_id": 1674570,
+        "name": "Hunt: Showdown - Bayou Wraith",
+        "detailed_description": "This DLC contains one Legendary Hunter and two Legendary weapons: Teche Wraith (Legendary Hunter), Wraith's Hand (Springfield Compact Striker), and Verbena (Knife).  <br />\r\n<br />\r\nSmall and delicate, a choir of pastel purple bunched, fist-like, shading the hidden blades of its subtle, woody thorn. So-named is the Verbena blade, a subtle but steadfast companion for those who stalk the Bayou with stealth. Like the Teche Wraith: that insidious trickster, that Bayou Puck, that outlaw. With theatrical flair he bests his enemies, his Springfield never far from his hand, and a laugh never far from his lips - in spite of all that has befallen his family, and in spite of the corruption that walls them in on every side.  <br />\r\n<br />\r\nNow, the threat of a greater shadow at hand, one he has fought - and bested - before, the Teche Wraith shines out from the shadows, striking at its dark heart. Shadow takes shadow, dawn takes night, camouflaged and protected by the very same energy that fuels that unspeakable being.  <br />\r\n<br />\r\nLight my shadow, dark my days. Light my shadow, dark my days, dark my days, dark my days...",
+        "short_description": "This DLC contains one Legendary Hunter and two Legendary weapons: Teche Wraith (Legendary Hunter), Wraith's Hand (Springfield Compact Striker), and Verbena (Knife).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1674570/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1674570/ss_cb22cee77e4513512a90e5b206f0731ddcbe48af.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1674570/ss_cb22cee77e4513512a90e5b206f0731ddcbe48af.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1674570/ss_431b8e74ab9cc3c5881cf794066fa6db0bcaafda.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1674570/ss_431b8e74ab9cc3c5881cf794066fa6db0bcaafda.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1674570/ss_7e66d350b665da30b5e450770103584e34fefcbb.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1674570/ss_7e66d350b665da30b5e450770103584e34fefcbb.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256848633,
+                "name": "Hunt: Showdown - Bayou Wraith",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256848633/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256848633/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256848633/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256848633/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256848633/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "24 Aug, 2021"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1674570/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1674570/page.bg.jpg"
+    },
+    "1720670": {
+        "steam_id": 1720670,
+        "name": "Hunt: Showdown - The Kid",
+        "detailed_description": "This DLC contains one Legendary Hunter (The Kid) and two Legendary Caldwell Conversion Pistols (Ember and Ash), ideal for dual wielding. <br />\r\n<br />\r\nThe Abaddon boy was a troublemaker. Pickpocket from the time he was five years old, and no surprise coming from a family like that. A moonshine family. A gambling family. Weren't nobody attended one of their poker games that went home with anything left in their pocket. <br />\r\n<br />\r\nTurner was the youngest of the eight, and a runt at that. Had a chip on his shoulder, and something to prove. Quick to pick a fight, and just as quick to run off - that is until he got so good at shooting that people started whispering he'd made some kind of dark deal. <br />\r\n<br />\r\nWas a shame what happened to his siblings though. Ember and Ash, they were called. Figures, seeing as they burned up inside the shack the ten of them lived packed into. All the others made it out. God marked them for the fire with names like that. Turner named his pistols after them. Said every shot was to remind him of them. Keep their memory alive. But I heard it was Turner who started the fire in the first place. Memory, guilt, loyalty. They're funny things out here in the Bayou. Have a way of getting all twisted up into something sinister. <br />\r\n<br />\r\nTurner still acts like he has a lot to prove, but these days, he has the skill to prove it, especially with those two Caldwell Conversion Pistols at his sides. Wouldn't recommend partnering up with him, but wouldn't recommend underestimating him either. Not anymore. The runt come back to roost.",
+        "short_description": "This DLC contains one Legendary Hunter (The Kid) and two Legendary Caldwell Conversion Pistols (Ember and Ash), ideal for dual wielding.",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1720670/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1720670/ss_99bec53dff9737a2238b5ba32d1406fe756df143.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1720670/ss_99bec53dff9737a2238b5ba32d1406fe756df143.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1720670/ss_28a7ffce1fa0c896e81c4b26e46991397a66fed8.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1720670/ss_28a7ffce1fa0c896e81c4b26e46991397a66fed8.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1720670/ss_f00abadc92919aa49bdc08307e3fb348bec65fbf.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1720670/ss_f00abadc92919aa49bdc08307e3fb348bec65fbf.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256852489,
+                "name": "Hunt: Showdown - The Kid",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256852489/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256852489/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256852489/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256852489/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256852489/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "23 Sep, 2021"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1720670/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1720670/page.bg.jpg"
+    },
+    "1761570": {
+        "steam_id": 1761570,
+        "name": "Hunt: Showdown - Cold Blooded",
+        "detailed_description": "This DLC contains one Legendary Hunter and two Legendary weapons: The Reptilian (Legendary Hunter), Avarice (Romero 77 Talon), and Tooth to Tail (Bomb Lance). <br><br>The Bayou teemed with alligators once, their skins plentiful bounty for hunters like Keith Cowen. Apprenticed to the cruel and ambitious alligator hunter Frank Gravel, Cowen earned his keep on the flesh and hide of that primordial prey. Together the two men relished their prosperity, leaving mountains of scale and bone in their wake. But that was before the corruption. That was before something far more threatening, and far more primeval, drove most of the gators away from the swamps, and left Gravel and Cowen high and dry. <br><br>As the alligators began to disappear, desperation took hold. Broke and without prospects, they eventually tracked down an alligator - one of the few that dared remain. As Gravel punched Tooth to Tail through scale, fat, and flesh, a mist of greed shrouded Cowen's mind. He plunged Avarice's blade into Gravel's throat and watched him bleed out across the gator's carcass. As their blood seeped into the mud, Cowen donned the beast's skin: a mantle of victory and betrayal. A perfect match for the American Hunter's Association, the Bayou's monstrous inhabitants now feed Cowen's cold-blooded murderlust.<br><br><strong><u>The Reptilian</u></strong><br><br>When the alligators fled the Bayou, desperation and greed turned former-gator hunter Keith Cowen's mind, the skin of his coat a testament to his persistence, his skill, and his treachery.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1761570/extras/cold_blooded_reptilian.png\" /><br><br><strong><u>Avarice</u></strong><br><br>This Romero 77 Talon witnessed Keith Cowen give into greed and murder his mentor in cold blood, the weapon's thirst for blood a mirror to any Hunter who carries it.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1761570/extras/cold_blooded_avarice.png\" /><br><br><strong><u>Tooth to Tail</u></strong><br><br>Having once pierced the fatty flesh of the monsters of the sea, this harpoon-turned-Bomb Lance found its way to land in Louisiana, and into the hands of Keith Cowen, where it became an instrument of death and deceit.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1761570/extras/cold_blooded_toothtail.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter and two Legendary weapons: The Reptilian (Legendary Hunter), Avarice (Romero 77 Talon), and Tooth to Tail (Bomb Lance).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1761570/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1761570/ss_1714198490976f6527e34a273e8c10321017aeb4.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1761570/ss_1714198490976f6527e34a273e8c10321017aeb4.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1761570/ss_c50a1deb1206c6041604b114500ff0ee2473b788.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1761570/ss_c50a1deb1206c6041604b114500ff0ee2473b788.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1761570/ss_79efbaea01f0cc851430243309fcd3401ba498ef.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1761570/ss_79efbaea01f0cc851430243309fcd3401ba498ef.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256857663,
+                "name": "Hunt: Showdown Cold Blooded DLC",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256857663/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256857663/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256857663/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256857663/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256857663/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "26 Oct, 2021"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1761570/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1761570/page.bg.jpg"
+    },
+    "1784870": {
+        "steam_id": 1784870,
+        "name": "Hunt: Showdown - Death's Herald",
+        "detailed_description": "This DLC contains one Legendary Hunter, one Legendary weapon, and one Legendary tool: Sofia, Weeping Marigold (Vetterli 71 Karabiner Marksman), and Eye for an Eye (Throwing Knives).<br><br>Marked by death at birth, Sofia thought her visions a blessing until the day they led four dark figures to her family home. Flames consumed everything they touched, and as she watched, the horizon turned a yellow-red, familiar faces melted like wax, twisted in agony, and four gunshots echoed in the night, each followed by the cry of a familiar voice of a family member crossing through the veil.<br><br>When the last ember died, Sofia performed an old blood ritual, seeking guidance from Death. In that final vision, she saw bloated corpses, an old wooden gate, and a woman presiding over a cemetery blanketed with marigolds; her face blank and smooth, and her bony finger pointed at northeast.<br><br>Sofia followed the signs in pursuit of the Four. Death is ever-present in the Bayou, stalking any foolish enough to tread among its corrupted inhabitants. And so Sofia - said to be messenger and herald to that dark and ever-present Reaper - inevitably found her way to Louisiana, where she could be close to the source of her visions, and attempt to satiate her desire for vengeance. The American Hunter's Association did not think twice to initiate her, and she now leads the dead - and the living - in the Bayou to their final sleep with the barrel of the Weeping Marigold and the blades of Eye for an Eye at her side, always searching.<br><br><strong><u> Sofia </u></strong><br><br>Visions forged by agony and suffering came true when Sofia's family were murdered by four strangers. Blinded by an insatiable thirst for vengeance, she made a blood pact with Death and is now in pursuit to herald the Four's last breaths.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1784870/extras/deathsHerald_sofia.png\" /><br><br><strong><u> Eye for an Eye </u></strong><br><br>When flames consumed Sofia's past, nothing but charred bones and these Throwing Knives remained among the ashes. Tempered by fire and an unholy grudge, each blade eagerly longs to help quench Sofia's thirst for vengeance.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1784870/extras/deathsHerald_eyeforeye.png\" /><br><br><strong><u> Weeping Marigold </u></strong><br><br>This Vetterli 71 Karabiner Marksman accompanied Sofia in her journey from beyond the southern border to the Bayou. Now it guides its wielder's prey, much like its namesake, to where they belong: the land of the dead.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1784870/extras/deathsHerald_WeepingMarigold.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter, one Legendary weapon, and one Legendary tool: Sofia, Weeping Marigold (Vetterli 71 Karabiner Marksman), and Eye for an Eye (Throwing Knives).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1784870/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1784870/ss_f5979f187aabaef463165b89991c01c8071543e6.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1784870/ss_f5979f187aabaef463165b89991c01c8071543e6.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1784870/ss_99a19aae7d316c04238fb6877e9e3eb2ef4c1034.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1784870/ss_99a19aae7d316c04238fb6877e9e3eb2ef4c1034.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1784870/ss_d41efef26bb2814089ddd8b24950f0a16ec04bb8.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1784870/ss_d41efef26bb2814089ddd8b24950f0a16ec04bb8.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256862033,
+                "name": "Hunt: Showdown Death's Herald",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256862033/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256862033/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256862033/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256862033/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256862033/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "30 Nov, 2021"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1784870/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1784870/page.bg.jpg"
+    },
+    "1784880": {
+        "steam_id": 1784880,
+        "name": "Hunt: Showdown - The Lawless",
+        "detailed_description": "This DLC contains one Legendary Hunter, and two Legendary weapons: The Gunslinger, Felon's Six (Scottfield Model 3), and The Accomplice (Winfield M1873 Aperture).<br><br>There are those unsuited to a law-abiding life. Those who had a code of ethics that ran contrary to the general consensus, who sought out thrill over security, and solved their disputes with their own mettle. The lawless frontier once offered opportunities abound for such people, but no longer. Crisscrossed with railways and checkerboarded with towns, wilderness only flourished in preserves, and the long arm of the law flexed its muscles. <br><br>The Gunslinger, an outlaw by the name of May Belle and presumed dead in her home state, was one of the few to narrowly escape the law's clutches. A final jailbreak, indebted to Felon's Six as she dubbed it, set her on a path back East, to scope out any means of earning a living through lead. With The Accomplice, reliable as ever, she found what she sought deep in the Bayou, on the frontier between our world and another. <br><br><strong><u>The Gunslinger </u></strong><br><br>The Gunslinger, an outlaw by the name of May Belle and presumed dead in her home state, was one of the few to narrowly escape the law's clutches. <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1784880/extras/LawlessHunter__1___1_.png\" /><br><br><strong><u>Felon's Six (Scottfield Model 3) </u></strong><br><br>A final jailbreak, indebted to Felon's Six as she dubbed it, set her on a path back East, to scope out any means of earning a living through lead. <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1784880/extras/MicrosoftTeams-image__17_.png\" /><br><br><strong><u>The Accomplice (Winfield M1873 Aperture) </u></strong><br><br>With The Accomplice, reliable as ever, she found what she sought deep in the Bayou, on the frontier between our world and another.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1784880/extras/MicrosoftTeams-image__18_.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter, and two Legendary weapons: The Gunslinger, Felon's Six (Scottfield Model 3), and The Accomplice (Winfield M1873 Aperture).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1784880/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1784880/ss_f1571cabd9f5f854a8559d33ca3520bc781af634.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1784880/ss_f1571cabd9f5f854a8559d33ca3520bc781af634.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1784880/ss_adf9d5a99c41d64d3d4ce3101ed57f11726a3b94.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1784880/ss_adf9d5a99c41d64d3d4ce3101ed57f11726a3b94.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1784880/ss_46cf31c33c6aae2f9ace5e4c4773a80f5fa2bc73.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1784880/ss_46cf31c33c6aae2f9ace5e4c4773a80f5fa2bc73.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256866405,
+                "name": "Hunt: Showdown - The Lawless",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256866405/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256866405/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256866405/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256866405/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256866405/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "14 Dec, 2021"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1784880/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1784880/page.bg.jpg"
+    },
+    "1852470": {
+        "steam_id": 1852470,
+        "name": "Hunt: Showdown - Azure Arsenal",
+        "detailed_description": "This DLC contains three Legendary weapons and a Legendary tool: Sui's Bane (Berthier Mle 1892), Ascent (Romero 77 Handcannon), The Seventh Sun (Dolch 96 Precision), and Yuchang (Heavy Knife).<br><br>When the New Year dawns in the East, demons enter our world to prey upon flesh and mind. It is on that day when the morning is adorned by talismans, the dragon's dance begins in the afternoon, and the night sky blazes with red fireworks to ward off the demons. Many would resort to ancient practices in which they find hope; the Hunters in China, however, find hope in both tradition and steel. They have been fighting the demons relentlessly with the weapons they have blessed with legends, and their efforts haven't gone unnoticed in the West.<br><br>Once desperation took hold in Louisiana, Jason Trevors didn't wait another second to seize the opportunity. He paid the price, made the deals, and the Azure Arsenal began its travels towards him across ocean and land. Crafted and perfected by the veteran Hunters of China, each of these weapons are believed to possess a great power. They are now waiting to be claimed by those who are willing to pierce the heart of corruption with lead and steel blessed under the azure sky.<br><br><strong><u> Sui's Bane (Berthier Mle 1892) </u></strong><br><br>Nightmares plagued by Sui and the mental agony it causes impregnate this Berthier Mle 1892's talismans. Believed to have once warded off  the demon, it now keeps the monsters of rot at bay in the Bayou.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1852470/extras/berthier.png\" /><br><br><strong><u> Ascent (Romero 77 Handcannon) </u></strong><br><br>Whenever this Romero 77 Handcannon roars, it heralds the ascent of the Jade Dragon, and perhaps it will grant longevity and strength to those willing to wield the gun for bloody endeavors.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1852470/extras/handcannon.png\" /><br><br><strong><u>  The Seventh Sun (Dolch 96 Precision) </u></strong><br><br>The first human was born on the seventh day of the first spring, and this Dolch 96 Precision was blessed under the seventh sun to ensure each life it claims grants more to its wielder.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1852470/extras/dolch.png\" /><br><br><strong><u> Yuchang (Heavy Knife) </u></strong><br><br>As sharp as its namesake, this Heavy Knife earned its reputation for its proficiency in lacerating flesh, severing limbs, and crushing bones, the only cure the Bayou needs.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1852470/extras/knife.png\" />",
+        "short_description": "This DLC contains three Legendary weapons and a Legendary tool: Sui's Bane (Berthier Mle 1892), Ascent (Romero 77 Handcannon), The Seventh Sun (Dolch 96 Precision), and Yuchang (Heavy Knife).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1852470/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1852470/ss_d10e7037b05490d4785fe347310ea26642996abc.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1852470/ss_d10e7037b05490d4785fe347310ea26642996abc.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1852470/ss_fb551c257ceb9a20187eb988ac046bccec4b40bb.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1852470/ss_fb551c257ceb9a20187eb988ac046bccec4b40bb.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1852470/ss_2c7d9d9ce75fe077700b92b150af79f2b023a7d0.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1852470/ss_2c7d9d9ce75fe077700b92b150af79f2b023a7d0.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1852470/ss_d3f8ab7611b6f6118b9eeb7fb318dac600aa5de7.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1852470/ss_d3f8ab7611b6f6118b9eeb7fb318dac600aa5de7.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256871646,
+                "name": "Hunt: Showdown - Azure Arsenal",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256871646/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256871646/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256871646/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256871646/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256871646/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "1 Feb, 2022"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1852470/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1852470/page.bg.jpg"
+    },
+    "1852480": {
+        "steam_id": 1852480,
+        "name": "Hunt: Showdown - They Came From Salem",
+        "detailed_description": "This DLC contains one Legendary Hunter, two Legendary weapons, and one Legendary tool: The Witch Hunter, Witch Trial (Berthier Mle 1892 Deadeye), Sister's Keeper (Nagant M1895 Officer), and Rooted Apothecary (First Aid Kit). <br><br>When she was just a little girl, Circe's grandmother sat her down and told her the history of the Elias family. She told Circe that while many innocent lives were taken in Salem, there was such a thing as a witch. They would parade around in the skins of women and haunt entire towns. They would attract young girls to their side so that when their costumes became too loose with age, they always had something new to slip into. Circe's grandmother told her that it was the job of the Elias family to find these witches and end them, snuff out every single one until there was nothing but rumor and ash left.  <br><br>And so, Circe grew into a fine hunter of witches, ripping them out of the skins of their victims and setting them ablaze so they could return to hell. When the witches were gone, or at least in hiding, someone came to the Elias clan to ask them to join a new cause. While the terror was being controlled in New York, Louisiana's plague was reaching a fever pitch and they needed an Elias for the cause. Her sense of duty and pride in the family name compelled Circe to head to New Orleans and join the Hunt thinking she would be back quickly and praying that her family would be safe until she returned. <br><br>For three months Circe Elias took a Berthier improved with the trophies of witches into the bayou and hunted a new type of monster. For three months she wrote back home to check on her family and tell them of all the sights she'd seen. She wrote of the apothecary she visited everyday with old women who would fill her kit with salves and bandages. And most importantly, she wrote that soon she would be coming back home to bring her little sister Thula to New Orleans. Though the witches had disappeared, this new threat was just as important, and the swamps were the perfect place to train.  <br><br>When Circe finally arrived back home in Salem, she learned an awful truth: The Witches had not disappeared and, worse yet, they had come to her family for revenge. She rushed in only to see the pieces of her mother, father, and brothers. Thula was the only one left, barely alive and skin all gone. Thula only had enough life left to return the Nagant Circe had given her to protect herself and to warn her older sister. The last of the witches had taken Thula's skin and gone to Louisiana to find Circe.  <br><br>As Thula took her last breath Circe decided: She'd go back to New Orleans to stay. She'll continue to hunt the new monsters and wait for the old ones to show up in her sister's skin. Then she'll show them pain so unimaginable that her family will smile down at her from heaven.  <br><br><strong><u>The Witch Hunter</u></strong><br><br>Descended from a long line of witch hunters, Circe Elias was raised ready to fight the unknown. When word got to the New York branch of the AHA about Louisiana, Circe knew she needed to go put her lineage and training to work.  <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1852480/extras/hunter.png\" /><br><br><strong><u>Witch Trial</u></strong><br><br>The Elias family made their money hunting witches in Massachusetts. This Berthier Mle 1892 is said to be modified with remnants of the witches they could not burn.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1852480/extras/long_gun.png\" /><br><br><strong><u>Sister's Keeper</u></strong><br><br>The night Circe left her family, she firmly placed this unfailing Nagant M1895 Officer in her little sister's hand and told her to use it if she had to. When Circe came back to get her, it was still clutched in her cold, lifeless fingers.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1852480/extras/handgun.png\" /><br><br><strong><u>Rooted Apothecary</u></strong><br><br>Expertly crafted by the medicine women of Louisiana, this First Aid Kit is said to be the best of both ancient and modern medicine.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1852480/extras/First_aid.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter, two Legendary weapons, and one Legendary tool: The Witch Hunter, Witch Trial (Berthier Mle 1892 Deadeye), Sister's Keeper (Nagant M1895 Officer), and Rooted Apothecary (First Aid Kit).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1852480/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1852480/ss_deb97f73f59d3a6f8b1144f34f34f689d599cb79.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1852480/ss_deb97f73f59d3a6f8b1144f34f34f689d599cb79.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1852480/ss_5999b7f88f34d830affa6cc70b2f736da0157b87.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1852480/ss_5999b7f88f34d830affa6cc70b2f736da0157b87.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1852480/ss_da56dbc51455cbac1271aee0c6d606a852af1d7d.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1852480/ss_da56dbc51455cbac1271aee0c6d606a852af1d7d.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1852480/ss_c7f377cc02d0860ee38802c415e1c4fb1fb466f5.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1852480/ss_c7f377cc02d0860ee38802c415e1c4fb1fb466f5.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1852480/ss_caf1ced83c63028a69397aada22651d9eccb4f41.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1852480/ss_caf1ced83c63028a69397aada22651d9eccb4f41.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256876242,
+                "name": "Hunt: Showdown - They Came From Salem",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256876242/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256876242/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256876242/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256876242/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256876242/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "8 Mar, 2022"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1852480/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1852480/page.bg.jpg"
+    },
+    "1887100": {
+        "steam_id": 1887100,
+        "name": "Hunt: Showdown - Meridian Turncoat",
+        "detailed_description": "This DLC contains one Legendary Hunter (The Turncoat), two Legendary weapons (Dolch 96 pair Crossfire &amp; Ambush), and one Legendary Ammo Box (Red Cask).<br><br>The sun sets slow westward, blanketing the sky red and drawing the shadows out long on the meridian. Where the land hollows and dries, where undergrowth turns to scrub and dust, linger and traipse the remnants of bloodshed. There are those broken by engines of war and industry in the East, turned to something not quite resembling the human that once was. Faulty mechanisms still ticking, without purpose, working away at redundant tasks.<br><br>The Turncoat was one such tool of industry and war. Once broken in, Wim Jansen was given new purpose: guns to kill with and a regiment to kill for. All were sent West to bleed the land dry. But the bloodshed coagulated in Red Cask Gulch, where Jansen lost his colors. The only survivor of an ambush that claimed the lives of his men, Jansen was saved by a flash flood that washed the killing floor downstream, purifying the gulch of slaughter.<br><br>Rising from the mud two days later with only the Dolch pair Crossfire and Ambush, an Ammo Box he named for the Gulch, and the tags of his fallen friends, Jansen set off across the plain seeking revenge - only to find himself dubbed a turncoat and a traitor in his absence. After his vengeance was sated, the name stuck, but The Turncoat was already caught on the meridian of blood, and set off along it in pursuit of more violence.<br><br><strong><u>The Turncoat</u></strong><br><br>Wim Jansen went West to bleed the land dry, but in the end was victim to the frontier's relentless brutality. Falsely labeled a turncoat after his regiment's ambush, he wears the title proudly now, captivated by the meridian of blood, mind set only on violence and revenge.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1887100/extras/The_Turncoat.png\" /><br><br><strong><u>Crossfire &amp; Ambush</u></strong><br><br>Washed down the gulch in a bracken flash flood, the only weapons The Turncoat could find were a pair of Dolch 96s. Naming them Crossfire and Ambush, they accompanied him ever since, adorned with mementos of his fallen friends.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1887100/extras/Gun.png\" /><br><br><strong><u>Red Cask</u></strong><br><br>After The Massacre at Red Cask Gulch, The Turncoat carried his few remaining possessions in an old Ammo Box he found there. Now used for ammunition again, its name remains testament to that bloody past, vehicle for that dearly sought revenge.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1887100/extras/Ammo_Box.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter (The Turncoat), two Legendary weapons (Dolch 96 pair Crossfire &amp; Ambush), and one Legendary Ammo Box (Red Cask).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1887100/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1887100/ss_c6d289d75926963217d58b78c81bfe501225af2e.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1887100/ss_c6d289d75926963217d58b78c81bfe501225af2e.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1887100/ss_3957a3c0fb19190d7e172c4d252c1efcea01ed7c.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1887100/ss_3957a3c0fb19190d7e172c4d252c1efcea01ed7c.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1887100/ss_dab62ab3a4643f768074e3cc9b3b5101b8ce3185.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1887100/ss_dab62ab3a4643f768074e3cc9b3b5101b8ce3185.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256879276,
+                "name": "Official Trailer",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256879276/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256879276/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256879276/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256879276/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256879276/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "24 Mar, 2022"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1887100/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1887100/page.bg.jpg"
+    },
+    "1906330": {
+        "steam_id": 1906330,
+        "name": "Hunt: Showdown - Lonely Howl",
+        "detailed_description": "This DLC contains one Legendary Hunter, two Legendary weapons, and one Legendary tool: Lonely Howl, Ripper (Caldwell Pax Claw), Stalker's Snarl (Hunting Bow), and Rawhide (Dusters).<br><br>Beasts skinned to flesh and bone, the stench of boiling innards, and the rusty smell of blood dripping from the veins cut clean were the first images burned into Leonel Frisk's young mind, and they awoke something terrible in him: An unnatural affinity for violence. Son to revered wolf hunters in Kansas, he watched his mother and father stalk, hunt, and gut the beasts in front of his infant eyes. With each prey brought to the slaughterhouse they called home, the red haze grew and clouded his mind with sanguine dreams. When he held his first small game in crimson hands under the silvery light of the full moon, wolves howled as if to celebrate his rite of passage, unaware of the unholy bloodthirst burning in his heart, and ignorant of the bloodshed he'd bring upon them. <br><br>It was the wolves - not his father - who taught Frisk how to hunt. Envious of their savage nature and hunting prowess, Frisk wanted to prove his worth by taking down the alpha wolf with the Caldwell Pax his father gave him. Successful, he adorned himself with the alpha's skin, and his Caldwell with the fang ripped bloody from its maw and tried to stab his own father in the heart. He would become the mightiest predator in his territory.  <br><br>But in spite of besting the forest's alpha, he could not best his father, and so Frisk disappeared in the night, taking only his father's Caldwell and a Hunting Bow. His bloodlust led him to Louisiana, where he continued hunting, ignorant of the shadows tracking his every move; shadows Hunters in the Bayou would later come to know as Dire Wolf and Luna Wolf; shadows he had once called mother and father. Like a lone wolf, he listened to his instincts and left one pack for another, forgetting his human nature and his father's words: “A wolf that leaves its pack becomes a threat.<br><br><strong><u>Lonely Howl</u></strong><br><br>An insatiable bloodthirst possessed Leonel Frisk since he first caught its scent. His sanguine dreams and hunger for violence brought him to the Bayou, where he searches for new prey, and fresh blood to spill.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1906330/extras/lonelyHowl_Hunter.png\" /><br><br><strong><u>Ripper</u></strong><br><br>Meant to be an heirloom, this Caldwell Pax Claw was modified by Leonel Frisk to rip and tear open the soft necks of forest game - but instead was used by the son against the father in the ultimate act of betrayal.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1906330/extras/lonelyHowl_caldwell_pax_claw_ripper.png\" /><br><br><strong><u>Stalker's Snarl</u></strong><br><br>“A predator's best ally is silence,” thought Leonel Frisk when he crafted this Hunting Bow. Each shot silent as a wolf prowling, it now accompanies him in the Bayou and whispers the death's song to his prey with each arrow.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1906330/extras/lonelyHowl_bow_legendary.png\" /><br><br><strong><u>Rawhide</u></strong><br><br>Leonel Frisk's thirst could only be quenched with the rusty taste of blood and the sound of broken bones and cracked skulls. These Dusters ensure each hit fulfills dreams with new and more grotesque scenes of violence.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1906330/extras/lonelyHowl_dusters.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter, two Legendary weapons, and one Legendary tool: Lonely Howl, Ripper (Caldwell Pax Claw), Stalker's Snarl (Hunting Bow), and Rawhide (Dusters).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1906330/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1906330/ss_df7f559467cb0377c59b09d7f74a242274043b75.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1906330/ss_df7f559467cb0377c59b09d7f74a242274043b75.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1906330/ss_bf73f07b172d95f3390147247d9317efff1fbcac.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1906330/ss_bf73f07b172d95f3390147247d9317efff1fbcac.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1906330/ss_dffc2b4186dc1a05271be490229b8ba6e58dba27.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1906330/ss_dffc2b4186dc1a05271be490229b8ba6e58dba27.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1906330/ss_fc704e46223c7bfac5355d900afed568868373a6.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1906330/ss_fc704e46223c7bfac5355d900afed568868373a6.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256883843,
+                "name": "Hunt: Showdown - Lonely Howl",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256883843/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256883843/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256883843/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256883843/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256883843/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "28 Apr, 2022"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1906330/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1906330/page.bg.jpg"
+    },
+    "1966460": {
+        "steam_id": 1966460,
+        "name": "Hunt: Showdown - Bridgewater's Honor",
+        "detailed_description": "This DLC contains one Legendary Hunter (Sgt. Bridgewater), a Legendary Caldwell 92 New Army (Honor Above), a Legendary Specter 1882 (Standard Issue), and a Legendary Machete (Arlington Grave). <br><br>Sergeant Caleb Bridgewater felt he was nothing before the uniform; striding out through the badlands with his brothers in arms made him the man he is today. It was not just the inescapable violence that got the better of his nerves, but orders given that didn't align with his own moral compass. Honor became an old feeling, lost amongst the urgent need to avenge fallen friends, desperation in protecting the vulnerable, and realizing that their aspirations were misguided: that they were enforcing an idea of order in a wild land that never asked for it. <br><br>Though Sergeant Bridgewater's performance made him a shining example to others, his postings passed in a haze as he lost himself. He heard what happened to his friends who were discharged, that they were left to struggle with their personal legacies of war. When word reached him of home, and of what had happened in the Bayou, it rattled him back to reality. Letters told of unspeakable horrors and an existential threat to the United States. He urged his men to return to Louisiana, to fight what seemed to be a good fight - a fight he believed it was the nation's duty to undertake. In the end, he walked alone, still wearing the uniform, believing he had chosen the most important war.<br><br><strong><u>Sgt. Bridgewater </u></strong><br><br>The injustice of war caused Sergeant Caleb Bridgewater to seek a different fight when word from home reached him of what was happening in the Bayou. Forced to desert, he's proud now to fight the only war he believes in.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1966460/extras/MicrosoftTeams-image__40_.png\" /><br><br><strong><u>Honor Above </u></strong><br><br>Sgt. Bridgewater was surprised to be assigned a new Caldwell 92 New Army - his regiment often got the bottom of the barrel. But Bridgewater's performance in the field was unrivalled, and that came with some recognition.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1966460/extras/MicrosoftTeams-image__41_.png\" /><br><br><strong><u>Standard Issue</u></strong><br><br>While the Specter 1882 was standard issue, Sgt. Bridgewater set himself apart with an impressively cool head even when the fighting was close and fierce.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1966460/extras/MicrosoftTeams-image__42_.png\" /><br><br><strong><u>Arlington Grave</u></strong><br><br>This blade is older than Sgt. Bridgewater himself, and it saved his life on more than one occasion. A testament to his own brand of loyalty, he wields it like a furious Machete, carrying unto his own end.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1966460/extras/MicrosoftTeams-image__43_.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter (Sgt. Bridgewater), a Legendary Caldwell 92 New Army (Honor Above), a Legendary Specter 1882 (Standard Issue), and a Legendary Machete (Arlington Grave).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1966460/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1966460/ss_59cbc16cd2d2a85176b57c509d9333a3104325f1.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1966460/ss_59cbc16cd2d2a85176b57c509d9333a3104325f1.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1966460/ss_ac6e854d3ce53562922eb490b1fcc3ecd431ec95.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1966460/ss_ac6e854d3ce53562922eb490b1fcc3ecd431ec95.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1966460/ss_abf584c0da3479489e9714271cb38b3e730dddaa.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1966460/ss_abf584c0da3479489e9714271cb38b3e730dddaa.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1966460/ss_9dc2f0dbcc608a9385acd9142db5123155d21a64.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1966460/ss_9dc2f0dbcc608a9385acd9142db5123155d21a64.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256887536,
+                "name": "Hunt: Showdown - Bridgewater's Honor",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256887536/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256887536/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256887536/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256887536/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256887536/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "24 May, 2022"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/1966460/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1966460/page.bg.jpg"
+    },
+    "2014790": {
+        "steam_id": 2014790,
+        "name": "Hunt: Showdown - The Prescient Night",
+        "detailed_description": "This DLC contains one Legendary Hunter and three Legendary weapons: The Prescient (Hunter), The Forewarning (Vetterli 71 Karabiner Deadeye), Moon Bleached (Hand Crossbow), and The Blindside (Scottfield Model 3 Spitfire). <br><br>Ira Ozols was never blind to the injustice of her life, though she no longer speaks of why. Whatever happened, she was driven to find order, to find a way to balance the odds. The rabbit hole she followed led deeper and deeper into a shadowy sect of the AHA that sought to keep the world's unpalatable truths covered. As she passed from success to success, the sect assigned her to straighten out one of their wayward sons, Isaac Powell.  <br><br>Powell, now The Night Seer, impressed Ozols with his vision of a world turned upside down. She grew jealous of his foresight and saw the way to achieve the justice she craved: a way to balance the rightness of actions by both their past and future effects.  <br><br>Ozols gained the Night Seer's trust, and he confided in her the ritual he had undertaken. She repeated it, and as the power coursed through her, it left her blind to the present, but with a powerful and uncanny sense of what was to come.  <br><br>But seeing the Night Seer's path, more vividly than he himself had ever managed, shocked Ozols. She shredded her white robes and dyed them black. The symbols of power she'd once daubed in blood, she bleached again with the light from the corrupted moon, enriching her affinity for Dark Sight. She tied the scraps around her weapons, sure reminders to keep her path true. <br><br>Relying on her heightened perception, familiarity with Dark Sight, and uncanny foresight, Ozols now pursues the Night of the Hunter and any who would work towards their goals. In turn, the Night Seer feels the threat of there being one with greater power than himself, and knows that his prophecy will not come true if another has witnessed it. Now, they are locked in a dark duel, each moving two steps ahead of the other. <br><br><u><strong>The Prescient</strong></u><br><br>Never blind to life's injustices, Ira Ozols trod a dark path towards powers that would let her glimpse what was to come. To make judgements based on the past, and the future. On realizing her goal, she lost sight of the present, but became renowned for her prescience.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2014790/extras/hunter_prescient_night.png\" /><br><br><strong><u>The Forewarning</u></strong><br><br>Wrapped in the remnants of a once white robe, marked with symbols of truesight, this Vetterli 71 Karabiner Deadeye will find its target in the dark, despite earthly expectation.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2014790/extras/rifle_forewarning.png\" /><br><br><br><strong><u>Moon Bleached</u></strong><br><br>The favored tool of one who prefers subterfuge and subtlety, this Hand Crossbow is a stalwart companion that, with the pluck of its string, does not disturb the dark.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2014790/extras/crossbow.png\" /><br><br><strong><u>The Blindside</u></strong><br><br>Once belonging to Isaac Powell, this Scottfield Model 3 Spitfire was not the only thing stolen in the dead of the night. A staunch reminder to not be too trusting, and insurance if that lesson is forgotten.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2014790/extras/pistol_blind_sight.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter and three Legendary weapons: The Prescient (Hunter), The Forewarning (Vetterli 71 Karabiner Deadeye), Moon Bleached (Hand Crossbow), and The Blindside (Scottfield Model 3 Spitfire).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2014790/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2014790/ss_2777cda8fad5be801ebec66e9a1b895e5c894f12.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2014790/ss_2777cda8fad5be801ebec66e9a1b895e5c894f12.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2014790/ss_d010a6984f2b065448da537cb9f347e64a3751a0.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2014790/ss_d010a6984f2b065448da537cb9f347e64a3751a0.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2014790/ss_f2f42ca934ec195440d7087a53b0d0404948c819.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2014790/ss_f2f42ca934ec195440d7087a53b0d0404948c819.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2014790/ss_f32a9635a1d52b32025ebec54ebebad73ef4bc2d.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2014790/ss_f32a9635a1d52b32025ebec54ebebad73ef4bc2d.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256897979,
+                "name": "Hunt: Showdown - The Prescient Night",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256897979/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256897979/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256897979/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256897979/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256897979/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "26 Jul, 2022"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/2014790/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2014790/page.bg.jpg"
+    },
+    "2081520": {
+        "steam_id": 2081520,
+        "name": "Hunt: Showdown - Reap What You Sow",
+        "detailed_description": "This DLC contains one Legendary Hunter, two Legendary weapons, and one Legendary tool: Daughter of Decay, Bountiful (Berthier Mle 1892), First Fruits (Bow), and The Scion (Knuckle Knife). <br><br>Maeve Flynn was born alongside the first fruits of a plentiful harvest that let her family feast and rejoice for many days and nights. But in the coming years, their land grew ill, and soon they all followed. Siblings and cousins, aunts and uncles: Maeve helped her mother give them all back to the earth, burying them with their favorite possessions in hand. When Maeve buried her mother, there were no treasures left to harvest, so she placed dried seeds on her cold fingers and prayed they brought her mother bounty in a world beyond. <br><br>Harvest season came again, and from the decaying flesh of her kin, the crops grew fuller and richer than ever before. A ravenous Maeve fed and gorged, and when her gaunt body could take no more, she shared it with the birds, the rabbits, and the deer. <br><br>Maeve kept to herself, and it would be many years before she met another person. When she did, they were people no longer. Disgusted by the greed of the rotting who refused to give back what was no longer theirs, she turned her tools into weapons and left her home behind. Following the scent of death to the Bayou, she readied herself for a different kind of harvest.<br><br><strong><u>Daughter of Decay</u></strong><br>As a child, Maeve Flynn buried her family, and from their rotten flesh grew the crops that allowed her to grow vigorous and sturdy. Honoring their sacrifice, she vowed to appease the corrupted soil with blood, be it her enemies' or her own. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2081520/extras/hfus_lgnd_Daughter_of_decay.png\" /><br><br><strong><u>Bountiful</u></strong><br>Maeve Flynn was resigned to die amidst the carnage she wrought until Nika Felis presented her with a different path. This Berthier Mle 1892 was gifted to mark her initiation into the Hunt, and from fortune to purpose, it has provided Maeve with plenty. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2081520/extras/rifle_berthier_bountiful_.png\" /><br><br><strong><u>First Fruits</u></strong><br>The first fruits of the harvest taste different, dripping with anticipation and promise. The day Maeve Flynn shot her first deer with this bow, her uncles said she was a natural. Now, whenever her arrow fails to land, she prays her flesh doesn't taste like disappointment.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2081520/extras/bow_first_fruits_01.png\" /><br><br><strong><u>The Scion</u></strong><br>From the bones of the animals and the trees, Maeve Flynn carved herself claws. Each makeshift knuckle knife buried in the hearts of the rotten is an offering to the earth.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2081520/extras/knuckle_knife_the_scion.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter, two Legendary weapons, and one Legendary tool: Daughter of Decay, Bountiful (Berthier Mle 1892), First Fruits (Bow), and The Scion (Knuckle Knife).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2081520/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2081520/ss_0d702188213afc8563494c95f54841a590b012b3.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2081520/ss_0d702188213afc8563494c95f54841a590b012b3.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2081520/ss_d3ea7ceff70c579f9d76f2bee89f672231b24f7c.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2081520/ss_d3ea7ceff70c579f9d76f2bee89f672231b24f7c.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2081520/ss_a916cbf087f0b04a80cb8b693de085f9f48b99fb.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2081520/ss_a916cbf087f0b04a80cb8b693de085f9f48b99fb.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2081520/ss_b7feff001cc71c2090381c51048f6c34383053ae.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2081520/ss_b7feff001cc71c2090381c51048f6c34383053ae.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256901118,
+                "name": "Hunt: Showdown - Reap What You Sow",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256901118/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256901118/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256901118/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256901118/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256901118/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "16 Aug, 2022"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/2081520/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2081520/page.bg.jpg"
+    },
+    "2100450": {
+        "steam_id": 2100450,
+        "name": "Hunt: Showdown - The Penitent",
+        "detailed_description": "This DLC contains one Legendary Hunter, two Legendary weapons, and one Legendary consumable: The Penitent (Hunter), Delirium (Caldwell Rival 78), The Scourge (Nagant M1895 Officer Brawler), and False Sacrament (Regeneration Shot).<br><br>Like a hound experiencing their first taste of fresh meat, Damien Yedaiah became obsessed with pain when the sweet touch of his whip granted him the salvation and forgiveness that he sought for years. In its warm embrace, pain helped Damien fight his remorse and shatter his memories - a blessing bestowed by the Lord himself. But as the years passed, his scars - testimonies to his imperious devotion - grew. Festering wounds stretched across his body like vast mountains, burying his nerves deep beneath thick layers of scab and scar, and one day, his body became numb, and pain, his guide to salvation, abandoned him.<br>Each jolt of pain had been marked by sweat, blood, and his inharmonious moans that had kept his demons at bay, but that night his whip travelled in the air for nothing. A candle's light, too weak to even illuminate the wax underneath, flickered once, then twice, as the whip rose and fell, ripping off skin and flesh, but delivering no pain but disappointment. Shadows danced with the flickering light as if to celebrate their arrival, and the demons, screaming louder than ever, greeted Damien mockingly.<br><br>An anguished moan echoed in his sanctum, a crypt cloistered beneath the St. Francis Seraph Church, and Damien trembled in desperation as his demons resurfaced. Possessed by a need for the scape of pain, he did what he had to do to silence them, wrapping the parts of his body untouched by the whip with barbed wire. But it wasn't enough. Desperate, he skinned his own face and hid it behind a cloth bag dipped in salt. But the ecstasy was temporary. The candle's light died, and with it, hope. He stood in the dark surrounded by his past as memories flashed before his eyes: his wife, chest cut open, face shredded, and hands tied with her own intestines - her eyes fixed on him, as if begging for mercy that is never to come. Behind her, his son, limbs severed from joints, each nailed on a big cross and crudely sewn together, forming a sculpture of flesh, and Damien holding the shotgun he later dubbed Delirium, as a reminder of his sins.<br><br>And through the frenzy of images, a voice spoke of peace, the promise too tempting to resist. With The Scourge in his hand, still dripping his own blood, he took his first step into the AHA branch in Louisiana, and the voices, now harmonious, welcomed him to the Hunt.<br><br><strong><u>The Penitent</u></strong><br><br>Damien Yedaiah buried his past beneath his countless scars, pain helping him to silence his demons. But as his body collapsed and his mind gave way, he found salvation in the blood and pain of others.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2100450/extras/Pentinent_hunter.png\" /><br><br><strong><u>False Sacrament</u></strong><br><br>Damien Yedaiah knew only one method to attain peace: Pain. But his need was too great for his body to withstand, and he concocted this Regeneration Shot to keep his body intact, so his mind could savor the sweet escape of self flagellation.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2100450/extras/regeneration_shot_false_sacrament.png\" /><br><br><strong><u>Delirium</u></strong><br><br>Deep in the crypts beneath the St. Francis Seraph Church, Damien Yedaiah sought the sweet embrace of agony - solace from and punishment for what he had done to his own family with this Caldwell Rival 78. Once his demons returned though, he had no other choice but to unearth Delirium once again.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2100450/extras/caldwell_rival_delirium.png\" /><br><br><strong><u>The Scourge</u></strong><br><br>When his body resisted pain, Damien Yedaiah resorted to unconventional methods to keep his demons at bay. He adorned this Nagant M1895 Officer Brawler's handle with barbed wires so he could enjoy the same pain he used to bring to his victims.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2100450/extras/nagant_officcer_brawler_scourge.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter, two Legendary weapons, and one Legendary consumable: The Penitent (Hunter), Delirium (Caldwell Rival 78), The Scourge (Nagant M1895 Officer Brawler), and False Sacrament (Regeneration Shot).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2100450/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2100450/ss_5bf3ebe7f3c4d3ac543938e51b6b2753dbe8edda.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2100450/ss_5bf3ebe7f3c4d3ac543938e51b6b2753dbe8edda.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2100450/ss_30d14cc5e790e9e96576de1ad731a69883352772.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2100450/ss_30d14cc5e790e9e96576de1ad731a69883352772.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2100450/ss_b30d3c7a90c93f5e400095f0d1299795c333df7f.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2100450/ss_b30d3c7a90c93f5e400095f0d1299795c333df7f.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2100450/ss_dc5b7218b206d71a51f468c78486e5c5fc9bc11e.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2100450/ss_dc5b7218b206d71a51f468c78486e5c5fc9bc11e.1920x1080.jpg"
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "22 Sep, 2022"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/2100450/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2100450/page.bg.jpg"
+    },
+    "2133640": {
+        "steam_id": 2133640,
+        "name": "Hunt: Showdown - Fear The Reaper",
+        "detailed_description": "This DLC contains one Legendary Hunter, two Legendary weapons and one Legendary Tool: The Reaper (Hunter), Quietus (Specter 1882 Compact), Memento Mori (Winfield M1876 Centennial), and The Scythe (Throwing Axe).<br><br>Claeg Grey donned the mask and robe not for himself, but for the sake of his family. The first time Claeg realized something was wrong was when he went out on an errand for his wife Emma. He kissed her goodbye and mounted his horse to ride into town, but when he blinked once again, he was five miles away from home and his horse lay bleeding from its throat. He walked all the way back home covered in blood to meet the panicked tears of his wife, children, and friends.<br><br>From then on, it took Claeg every fiber of his being to concentrate even on the smallest task. Doing work on the farm became insurmountable labor, and his children wept in the corners when he mixed up their names and faces. Emma took him to countless doctors who couldn't give a name to his ailment, but any person of the cloth they met all said the same thing: A demon was slowly taking over Claeg's body, and he was in dire need of salvation. “The demon is only sated after sacrifice!” The good Christians would wail. “Stop him before it's too late.”<br><br>But the time to stop Claeg never came. And when he awoke one day to his friend's blood upon his throwing axe, his wails of anguish echoed through the town. It was death that brought Claeg back to life, and so Emma brought him to the man in DeSalle who they knew dealt in death.<br>And death he dealt. Waking to become himself only when blood caked his hands, and his prey took their last breath. Countless has to die so that he, in a sense, wouldn't. So that he remembered the reason he lived this torturous existence. So that he could remember the laughs of his children and the touch of his wife. So that no demon could take his place. <br><br>Claeg Grey donned the mask and robe not for himself, but for the sake of his family. So that no one would know his true self. So that his loved ones could finally find peace once more. And so that he could find clarity in freely administering death. <br><br><strong><u>The Reaper</u></strong><br>Claeg Grey's memory was leaving him. As his mind drifted and became blank, there was one thing that brought him back: Taking someone's life. Desperate to keep him alive, Claeg's family sent him to DeSalle where he could freely reap death.  <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2133640/extras/fear_reaper_hunter_grimreaper.png\" /><br><br><strong><u>Quietus</u></strong><br>After a month or so of success in the Hunt, Emma encouraged Claeg by gifting him a Specter 1882 Compact that she felt fit his new image: Tarnished but powerful. Sullied yet divine.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2133640/extras/legendary_specter_compact_quietus.png\" /><br><br><strong><u>Memento Mori</u></strong><br>Every bullet has weight and meaning in the chamber of this Winfield M1876 Centennial, and somehow Claeg still knows the importance of each. Though shooting it brings relief, it also brings loss of life, and despair.  <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2133640/extras/winfield_memento_mori.png\" /><br><br><strong><u>The Scythe</u></strong><br>Claeg's childhood friend Jim Mathis stayed by his side even as the Reaper's memories began to fade. He was devastated when he realized he was using a Throwing Axe to reap his friend's throat instead of crops.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2133640/extras/throwing_axe_scythe.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter, two Legendary weapons and one Legendary Tool: The Reaper (Hunter), Quietus (Specter 1882 Compact), Memento Mori (Winfield M1876 Centennial), and The Scythe (Throwing Axe).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2133640/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2133640/ss_1feab42d245585bb05e619efccc38b6043aae4db.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2133640/ss_1feab42d245585bb05e619efccc38b6043aae4db.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2133640/ss_a086ada81843f0fa53a06fe01ba0f4a31ce50507.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2133640/ss_a086ada81843f0fa53a06fe01ba0f4a31ce50507.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2133640/ss_9ca0a86a536e997ac75d43c084a66d0fffa61593.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2133640/ss_9ca0a86a536e997ac75d43c084a66d0fffa61593.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2133640/ss_01a5b076d36cb544366ea29e9497537533428acf.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2133640/ss_01a5b076d36cb544366ea29e9497537533428acf.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256912752,
+                "name": "Hunt: Showdown Fear the Reaper",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256912752/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256912752/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256912752/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256912752/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256912752/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "25 Oct, 2022"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/2133640/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2133640/page.bg.jpg"
+    },
+    "2160020": {
+        "steam_id": 2160020,
+        "name": "Hunt: Showdown - The Concubine",
+        "detailed_description": "This DLC contains one Legendary Hunter, two Legendary weapons, and one Legendary tool: The Concubine (Hunter), Shahmaran (Sparks LRR), Sister's Anguish (Hand Crossbow), and Pride's Death (Heavy Knife).  <br><br>Alaz's garments, once bright, patterned, and colorful, now dulled by mud and blood. The stains of which form new filigrees, new intricate inscriptions of death. So too are her stories. Drenched in bloodshed, unrecognizable from their first times told. But they all start the same: a merchant who set sail from an unfamiliar land, sisters bound by twisted fate forced to follow him. The sails limped, the trade winds failed to blow, and the merchant revealed the evil within him. Trapped on still waters, each day of the voyage was marked by new horrors. Alaz witnessed her sisters wither in pain, finding peace only in the cold embrace of the sea. She promised to avenge their misery and unleash the storm. <br><br>At the Port of New Orleans, the rich greeted them as they disembarked. A mansion they had dubbed the Sultan's Palace had been prepared. Food and drinks were plenty, enough to satisfy any gluttonous desire, and melodies from Alaz's homeland joined the rich music in the streets of New Orleans. Debauchery deafened ears and blinded eyes.  <br><br>It was not long until the wind howled, the port waters boiled, and Alaz prepared herself to greet the merchant in his chamber once again, but with Pride's Death in her hand. She carefully tore at muscle and flesh, taking his pride, and leaving him bleeding out on his bed. Her dress bloodied, she joined the guests in the main hall to grant them a quick death with the merchant's precious rifle, Shahmaran. <br><br>When the storm died out in the morning, a river of blood gushed out the Sultan's Palace into the storm-swept streets. The citizens of New Orleans discovered the bodies piled in the hall. And when puzzled minds started asking questions, Alaz had already spent her first bounty on a weapon she dubbed Sister's Anguish. <br><br><strong><u>The Concubine </u></strong><br>As Alaz's reputation grew, her past became a bloody fairytale, her present soaked in blood and mud. She chases a future molded by hatred and vengeance; a future she promised to herself and her lost sisters.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2160020/extras/hunter_concubine.png\" /><br><br><strong><u>Sister's Anguish </u></strong><br>When Alaz earned her first coin as a free woman, she bought this Hand Crossbow. Adorned with mementos of her fallen sisters, Alaz wields it with their enduring strength. <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2160020/extras/crossbow_concubine.png\" /><br><br><strong><u>Shahmaran</u></strong><br>The inscription on this Sparks LRR imbues only a worthy wielder with the strength of its namesake, an ancient myth. No wonder it called to Alaz and fell into her hands. <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2160020/extras/sparks_concubine.png\" /><br><br><strong><u>Pride's Death  </u></strong><br>The Merchant's Heavy Knife, embedded with the coins of his travels, was just the thing Alaz needed to put the man in his place. Hours of anguish and torture later, the former concubine had her prize.  <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2160020/extras/heavy_knife_concubine.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter, two Legendary weapons, and one Legendary tool: The Concubine (Hunter), Shahmaran (Sparks LRR), Sister's Anguish (Hand Crossbow), and Pride's Death (Heavy Knife). ",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2160020/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2160020/ss_a9dbf50228119538d94e63b997d56fff8c816b76.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2160020/ss_a9dbf50228119538d94e63b997d56fff8c816b76.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2160020/ss_5f4a09e4decf10a09898bcf921357ed85045b2d8.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2160020/ss_5f4a09e4decf10a09898bcf921357ed85045b2d8.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2160020/ss_2db36471af12375b7daead584763b8b491fb3dca.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2160020/ss_2db36471af12375b7daead584763b8b491fb3dca.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2160020/ss_543c1009c4dfd11acbb9abbc6b6089f9e0607ccb.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2160020/ss_543c1009c4dfd11acbb9abbc6b6089f9e0607ccb.1920x1080.jpg"
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "17 Nov, 2022"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/2160020/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2160020/page.bg.jpg"
+    },
+    "2160330": {
+        "steam_id": 2160330,
+        "name": "Hunt: Showdown - Frau Perchta",
+        "detailed_description": "This DLC contains one Legendary Hunter with two variations, two Legendary weapons, and one Legendary consumable: Perchta: Dawn (Hunter), Perchta: Dusk (Hunter), Midwinter Tusk (Martini-Henry IC1), Unkempt (LeMat Mark II), and The Avalanche (Frag Bomb).  <br><br>Old stories and grim fairytales speak of midwinter reckonings that reward the good and punish the bad. Foulest amongst this pantheon is the creature known as Frau Perchta, unsoftened like others of her ilk by the passing of time. A thing made of fur and tusk, fang and terror, who, in form of a woman, slits the abdomen to pull out the innards. A beast that changes from dusk to dawn.  <br><br>Those that stand against corruption, from forgotten valleys to glacial peaks, are made of harder stuff. Stories reached Louisiana of one - one who'd lost themselves amongst the blood in the snow, and who had donned the mantle of Frau Perchta, inhabited the children's tale meant to terrify.  <br><br>The daughter of a peasant high in the mountains, all that remains of that life are half-forgotten memories of taking the cattle to graze. In midwinter, a father returning home at dusk, a silver coin promised to a good daughter wasted on drink, a hand raised to a protesting mother. A hand raised one too many times. When the sun rose at dawn, a corpse was found with its abdomen slit in two, entrails feasted on by beasts. <br><br>From Louisiana, Perchta was sent for, and only silence answered. Those who had whispered of Perchta were called fools, and those that believed were laughed out of town. But in the depths of winter, when dawn broke in the bayou, garlands of innards were found strung on trees. The bad faced retribution every dusk. An old story was taking on new chapters, and the hunt was growing wilder by the day.  <br><br><strong><u>Perchta: Dawn </u></strong><br>The myths of midwinter recall a time of reckoning: gifts for the good, retribution for the bad. The reckoners, few and far between, have been softened by time. But not Perchta, from ancient alpine valleys, where punishments are dealt with a blade at dusk, and trees gifted with rotten garlands at dawn. <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2160330/extras/Hunter_Lady_perchta_v2.png\" /><br><br><strong><u>Perchta: Dusk </u></strong><br>In midwinter, the days are short, and it is the dusk and dark that rules over the dawn and light. Perchta only grows more feverous as the days shorten, for in the dark her truest form takes hold, and the light cowers from her fury.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2160330/extras/Hunter_Lady_perchta_v1.png\" /><br><br><strong><u>Midwinter Tusk </u></strong><br>Runed with lost symbols of power, the teeth inlaid into this Martini-Henry IC1 belong to no living beast. It's said that at the lightest touch they evoke overpowering illusions of blizzards, avalanches, and children lost to a blanketing white. Ancient memories and inescapable prophecies.  <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2160330/extras/Martini_henry_Lady_perchta.png\" /><br><br><strong><u>Unkempt </u></strong><br>Old stories tell of the terror Perchta would instill on those who'd been bad. Whoever wears the mask of Perchta today deals her punishments out with this LeMat Mark II revolver, using both barrels on the particularly deserving.  <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2160330/extras/lemat_revolver_lady_perchta.png\" /><br><br><strong><u>The Avalanche  </u></strong><br>When Perchta comes, this Frag Bomb thunders with the force of an avalanche, decimating those in its wake.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2160330/extras/frag_bomb_lady_perchta.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter with two variations, two Legendary weapons, and one Legendary consumable: Perchta: Dawn (Hunter), Perchta: Dusk (Hunter), Midwinter Tusk (Martini-Henry IC1), Unkempt (LeMat Mark II), and The Avalanche (Frag Bomb). ",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2160330/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2160330/ss_f73571ee0aba47c5c064c0cd28e207d7cc65c414.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2160330/ss_f73571ee0aba47c5c064c0cd28e207d7cc65c414.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2160330/ss_9e0eb5d635bd0fb2bc3ff4015de310956dbc2004.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2160330/ss_9e0eb5d635bd0fb2bc3ff4015de310956dbc2004.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2160330/ss_ed5d5ed41ea5bdca0faa74f87720a6313ec5dac3.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2160330/ss_ed5d5ed41ea5bdca0faa74f87720a6313ec5dac3.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2160330/ss_cb190c89c8722b854727bd05bab90aece0a68312.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2160330/ss_cb190c89c8722b854727bd05bab90aece0a68312.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256919736,
+                "name": "Hunt: Showdown Frau Perchta",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256919736/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256919736/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256919736/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256919736/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256919736/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "13 Dec, 2022"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/2160330/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2160330/page.bg.jpg"
+    },
+    "2200640": {
+        "steam_id": 2200640,
+        "name": "Hunt: Showdown - La Luz Mala",
+        "detailed_description": "This DLC contains one Legendary Hunter, two legendary weapons, and one Legendary tool: Luz Mala (Hunter), Del Ojo (Vetterli 71 Karabiner Deadeye), Raíz Mala (Caldwell Conversion Chain Pistol), and Premio del Tonto (Choke Bomb).  <br><br>Riders and shepherds on the great rangelands of Patagonia know not to follow la Luz Mala, the bad lights, when they flicker in the night. The wise warn the curious against being lured by the dancing phosphoresce. But the foolhardy are tempted by stories that la Luz Mala lead to riches and treasures. When those that are want to stray do, the luckiest find old bones and broken pots under the lights. The rest find their graves.  <br><br>The bad lights are strongest on days where rainfall is a distant memory, when canteens swill with dregs, and the earth cracks and gasps. On such a day, years ago, a girl was sent for water. She ignored her elder's advice and strayed towards the lights. She walked until it fell dark, and then further until it became bright. Lost, she spent days on the plain, sucking the moisture out of roots, until a plume of smoke ushered her homewards. At the base of the plume, she only found a massacre. After she buried her family, she saw the lights again on the horizon and set off after them, her despair mingled with a newfound veneration.  <br><br>The ranchers who committed the massacre also knew the legends of la Luz Mala, but did not fear them. They believed them to be some kind of natural luminescence, nothing more. But as the years wore on, and their hair greyed, when they saw the lights, they became more and more uneasy, as if the lights were looking back at them.  Once their uneasiness set in, it soon blossomed into outright terror. Whenever the lights appeared, one of their number would turn up dead. The ranchers began to believe the stories that they were the spirits of the unquiet dead. Some chased the lights, daring them to fight. Others fled, new lights blinking into their path from the depths of the darkened plain.  <br><br>The girl spent too long as the ghost in the glow. She could no longer distinguish herself from la Luz Mala, and though her vengeance was sated, the lights still guided her on. The legend of the bad lights spread, and soon even the bayou was said to flicker with the threat of Luz Mala. <br><br><strong><u>Luz Mala  </u></strong><br>The ghost in the glow, Luz Mala was saved by the bad lights that flickered on the plains of Patagonia. Everything she knew destroyed, those same lights guided her towards her fate. Now, she is the damnation of those who are tempted to stray towards the light.  <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2200640/extras/luz_mala_Hunter.png\" /><br><br><strong><u>Raíz Mala  </u></strong><br>The arid plains that saved Luz Mala as she wandered only nourished her with roots. The roots twined round this Caldwell Conversion Chain Pistol serve as a reminder of salvation in damnation.  <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2200640/extras/chain_pistol_raiz_mala.png\" /><br><br><strong><u>Del Ojo  </u></strong><br>The further Luz Mala went north, the harder the lights became to spy in the dark, a skill of the eye. Del Ojo is how she named her Vetterli 71 Karabiner Deadeye, taken - with trophies - from another who trod a dark path.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2200640/extras/vetterli_deadeye_seers_gaze_transparent_1.png\" /><br><br><strong><u>Premio del Tonto </u></strong><br>Those who dig where Luz Mala are seen should be wary of poison gases at the source. This Choke Bomb carries the same, and death follows shortly in their wake.  <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2200640/extras/choke_bomb_premio_del_tonto_transp_1.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter, two legendary weapons, and one Legendary tool: Luz Mala (Hunter), Del Ojo (Vetterli 71 Karabiner Deadeye), Raíz Mala (Caldwell Conversion Chain Pistol), and Premio del Tonto (Choke Bomb).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2200640/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2200640/ss_73e2783025ee9c4d3a52ca775e64bee6f0116f34.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2200640/ss_73e2783025ee9c4d3a52ca775e64bee6f0116f34.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2200640/ss_041f8cbaf55eaffb88b0437b206f96fb0fb071d7.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2200640/ss_041f8cbaf55eaffb88b0437b206f96fb0fb071d7.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2200640/ss_33cd2f6a6ed81e9069d0414391ca3fd60ca20eca.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2200640/ss_33cd2f6a6ed81e9069d0414391ca3fd60ca20eca.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2200640/ss_2431426b879c0b1fdcac5a3173442bac7ef0b2f3.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2200640/ss_2431426b879c0b1fdcac5a3173442bac7ef0b2f3.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256925848,
+                "name": "Hunt: Showdown - La Luz Mala",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256925848/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256925848/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256925848/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256925848/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256925848/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "18 Jan, 2023"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/2200640/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2200640/page.bg.jpg"
+    },
+    "2272500": {
+        "steam_id": 2272500,
+        "name": "Hunt: Showdown - Commedia Della Morte",
+        "detailed_description": "This DLC contains one Legendary Hunter, two Legendary weapons, and one Legendary consumable: Scaramuccia (Hunter), Opera Glasses (Winfield M1873C Marksman), Macchinista (Sparks Pistol), and Spaccagambe (Concertina Trip Mine). <br><br>Scaramuccia's trinity mask intimidates any audience, but the many faces behind the mask are quick to perform the fool, the friend, or the villain. Whichever he senses will put a room at ease, or compel it to serve his will. The three-faced mask always conceals which way he looks, confusing predator and prey alike until his next move. <br><br>It's a mask that has only been seen once before: worn by a gifted harlequin, who was the leading act of a renowned three-man troupe. The troupe's director kept the harlequin caged between shows, spreading rumors of grotesque disfigurement and urging people to join the audience for a glimpse beneath the mask. The third of the troupe was the bard, who drew people in with songs of sorrow and sympathy for the harlequin's disfigurement, before entrancing that same crowd with accompaniments to the troupe's one-man shows. Many who came to see the plays clamored for a chance to peek at the harlequin's face, trying to confirm the irresistibly horrifying descriptions the rumors spoke of. But no such chance came, and none could ever find what lair the troupe held the harlequin in between shows. <br><br>With the show's success, the director's clothing grew more lavish and the bard's guitar more ornate, yet the harlequin's single costume tore new holes every day. Poverty only added to both the spectacle and pity for the alleged freak, and a freak show proved to draw a greater paying audience than theatre. Then at the peak of the show's success, the director, bard, and harlequin all vanished without trace. Some weeks later, two bodies were found in the canal stripped of their clothes and with faces too grotesque to identify. <br><br>Now, amongst the torment of the Bayou, the troupe's sole survivor christens himself “Scaramuccia”. On the hunt, his finely crafted demeanor shifts and relaxes: relishing not the hunt, but the accursed swamps themselves. Perhaps peeling away the mask would reveal a face less akin to his fellow hunters, and more like what he hunts.<br><br><strong><u>Scaramuccia</u></strong><br><br>Theater twisted this proud performer into a freak show. Now, after a bloody emancipation, he feels at home amidst the monsters of the Bayou, where he can kill for coin instead of begging and pleading for it with a song and a dance.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2272500/extras/commedia_hunter.png\" /><br><br><strong><u>Macchinista</u></strong><br><br>A prop and relic from successful street theatre days, this Sparks Pistol has been taken apart and put back together as an elegant weapon -- one that's put to good use burying old memories.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2272500/extras/commedia_pistol_sparks.png\" /><br><br><strong><u>Opera Glasses </u></strong><br><br>Spying; seeing without being seen and knowing without being known. Such is the shared nature of theatre and hunting alike. And this graceful, precise Winfield M1873C Marksman separates the two with the pull of a trigger. <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2272500/extras/commedia_Winfield_m1873c_Marksman.png\" /><br><br><strong><u>Spaccagambe </u></strong><br><br>The stage is set, and it is set with malice. For attack or defense, this powerfully haphazard Concertina Trip Mine is a tool of ownership over many battlefields, and none more so than the mind. <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2272500/extras/commedia_concertina_mine.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter, two Legendary weapons, and one Legendary consumable: Scaramuccia (Hunter), Opera Glasses (Winfield M1873C Marksman), Macchinista (Sparks Pistol), and Spaccagambe (Concertina Trip Mine).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2272500/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2272500/ss_9608c0c5339219db7125e8fe3e7040c57f933084.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2272500/ss_9608c0c5339219db7125e8fe3e7040c57f933084.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2272500/ss_9477909cd7388979bf255636fc39f8b3b4b16d1f.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2272500/ss_9477909cd7388979bf255636fc39f8b3b4b16d1f.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2272500/ss_b284b05e9e61643a9d35a34984da292d692f7459.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2272500/ss_b284b05e9e61643a9d35a34984da292d692f7459.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2272500/ss_09516806cb21a0ccd5a8131c717f79ca53e2d47d.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2272500/ss_09516806cb21a0ccd5a8131c717f79ca53e2d47d.1920x1080.jpg"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256931861,
+                "name": "Hunt: Showdown - Commedia Della Morte",
+                "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256931861/movie.293x165.jpg",
+                "webm": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256931861/movie480_vp9.webm",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256931861/movie_max_vp9.webm"
+                },
+                "mp4": {
+                    "480": "http://cdn.akamai.steamstatic.com/steam/apps/256931861/movie480.mp4",
+                    "max": "http://cdn.akamai.steamstatic.com/steam/apps/256931861/movie_max.mp4"
+                }
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "21 Feb, 2023"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/2272500/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2272500/page.bg.jpg"
+    },
+    "2272530": {
+        "steam_id": 2272530,
+        "name": "Hunt: Showdown - Biatatá - Still Waters Run Deep",
+        "detailed_description": "This DLC contains one Legendary Hunter, two Legendary weapons, and one Legendary consumable: Biatatá (Hunter), Cobra da Várzea (Scottfield Model 3 Spitfire), Proteção do Andarilho (Winfield 1893 Slate), and Língua de Fogo (Liquid Fire Bomb). <br> <br>The following excerpt was retrieved from the short story “Cobra da Várzea”, published in a clandestine local paper from Salvador (Bahia), United States of Brazil (Typewritten translation attached) <br> <br>It's three after midnight, and the only light for leagues comes from the small fire she built in the sand. She works a knife with steady, agile fingers and carefully carves out her prize. When it gives in, it is with a wet sound, and she closes her hand around it like an embrace. At her feet, four men protest in muffled whimpers, facing the night with bleeding holes where they once had eyes. <br><br>When the fishermen find them, they will be dressed in white by the waves of the Atlantic, awaiting final judgment for sins the courts of men had swiftly forgiven. By then, she will be long gone. “It's Biatatá's doing.” The hushed whispers will spread through the streets and the pews. Some will call her a hero, others a murderer, and the superstitious will insist on the stories of a fiery snake stealing men's eyes and driving them mad. Above all, the people will ask, and the papers will plead, why? <br><br>Rolling the fresh eyeball in her fingers, she wonders, not for the first time, if she could ever answer. She never believed in justice, and she can't remember the last time she enjoyed revenge. All she remembers is being small and scrawny and invisible in a crowd of too many. Falling and being used as pavement. Bleeding and being left to rot. She asked why many times, and when the answer came to her, it felt like soothing to a burn. <br><br>Perhaps the reason for one's evil is simply that one can. And if so, then her own reasons could be just as plain. Not a savior nor a beast. She kills these wretched men because she can, and others won't. <br><br>She throws the eye into the flames and takes a deep breath before smiling. Tomorrow, she travels North to colder lands, on the trail of worse evils and tougher choices. But tonight, the salty air of Salvador warms her skin, and as the men's cries fade into silence, she knows these dead will not come back. <br><br><strong><u>Biatatá</u></strong><br><br>Like the legends of Biatatá, Beatriz Ribeiro Valente was a creature of fire trapped underwater. From the beaches of Salvador to the damps of the Bayou, she learned her flames could not be quenched. With nowhere to belong, she rose to set the world ablaze.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2272530/extras/stillwater_hunter.png\" /><br><br><strong><u>Cobra da Várzea</u></strong><br><br>The world expected nothing from Beatriz Ribeiro Valente, and when she pounced, they weren't ready. As tales of Biatatá's conquests found their way back to her home in Brazil, her fateful Scottfield Model 3 Spitfire became a symbol of defiance to the downtrodden. <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2272530/extras/Stillwater_Scottfield_Spitfire_Cobra_da_Varzea.png\" /><br><br><strong><u>Proteção do Andarilho</u></strong><br><br>Although the name Biatatá instils fear in the hearts of many, wanderers travel near water in hopes of her protection. The greedy who disturb an honest journey with lead are bound to be met with a blast from this Winfield 1893 Slate. <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2272530/extras/stillwater_Winfield_1893_Slate_Proteção_do_Andarilho.png\" /><br><br><strong><u>Língua de Fogo</u></strong><br><br>With a blinding flash, this Liquid Fire Bomb turns still waters into an inferno, and Hunters know the end is near. Running is futile. Fighting is foolish. Close your eyes, and pray Biatatá doesn't catch your scent.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2272530/extras/Stillwater_firebombwater_lingua_defogo.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter, two Legendary weapons, and one Legendary consumable: Biatatá (Hunter), Cobra da Várzea (Scottfield Model 3 Spitfire), Proteção do Andarilho (Winfield 1893 Slate), and Língua de Fogo (Liquid Fire Bomb).",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2272530/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2272530/ss_5f89780cf77eda5941532ccecafa30cb7edc37f9.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2272530/ss_5f89780cf77eda5941532ccecafa30cb7edc37f9.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2272530/ss_f33ad720b8af3beafd87cb9ef5156ad03a6e5327.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2272530/ss_f33ad720b8af3beafd87cb9ef5156ad03a6e5327.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2272530/ss_f5aa0a9e3ac8916f57878967924971d2776daa17.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2272530/ss_f5aa0a9e3ac8916f57878967924971d2776daa17.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2272530/ss_8405c19cdb4474529fd8c244314c636b5c11a1b5.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2272530/ss_8405c19cdb4474529fd8c244314c636b5c11a1b5.1920x1080.jpg"
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "8 Mar, 2023"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/2272530/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2272530/page.bg.jpg"
+    },
+    "2304500": {
+        "steam_id": 2304500,
+        "name": "Hunt: Showdown - Shrine Maiden's Hell",
+        "detailed_description": "This DLC contains one Legendary Hunter, one Legendary Weapon and one Legendary Tool: The Miko (Hunter), Ochita Mozu (Hunting Bow), Shinbatsu (Throwing Knives).  <br><br>Chisato Ryoko pressed her ear to the shrine bell to hear it sing of omens to come: plagues of beetles and frogs, crippling winters, a priest breaking their foot between cobbled stones. She clung to the bell the night the shrine burned, her family run off, the priests pushed from cliffs. But Ryoko remained. She alone witnessed the ronin who appeared and cut down each desecrator. <br><br>The ronin pulled Ryoko from the temple bell, pressed her ear to a sword, and abandoned her. She could hear a melody in the blade—it sang louder than the bell. <br><br>Ryoko cared for the shrine's ruin, polishing the cinder ribs of torii gates, but the saber's hum turned more brutal—hypnotic, even—until one day she left to silence whatever made it sing. <br><br>Entranced, she endured three trials: <br><br>She crossed a lake frozen with a thousand peering birds. A single glance would lock her soul inside their stilled wings.  <br><br>She navigated ravines of a thousand bones, crawling with a thirst for things beyond water.  <br><br>At last, that which made the blade sing appeared—a crane with a corruption of cicadas spooled from its infested, wounded lungs. The crane lanced her jaw with its bill and prayed. <br><br>“Rejoice, for each new hole is one more place for light to shine through.” <br><br>Ryoko broke the crane's neck. The trees fell silent, and the trance ended. She ventured to the edge of the sea and listened to her blade once more. A new song hummed from the other side of the sunrise, where the water turned black and the hearts of damned men begged for holes and light.<br><br><strong><u>The Miko</u></strong><br><br>The Miko tended her family's shrine long after it fell to ruin. When a sword left in her care began to sing, she followed its melody to Louisiana. She wields the blade to sever the thousand mouths that give it a voice.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2304500/extras/Hunter_onna_musha.png\" /><br><br><strong><u>Ochita Mozu</u></strong><br><br>This hama yumi was to never leave The Miko's family shrine. It has been cleansed by shooting a single arrow through the eyes of five birds: one raicho for each step into the shrine she took to reclaim the hunting bow.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2304500/extras/bow_ochita_mozu.png\" /><br><br><strong><u>Shinbatsu</u></strong><br><br>The eyelets of these throwing knives were used to string shimenawa rope to protect The Miko as her shrine burned. When they sink into the chest of a hunter, she still strings them to fulfill their unheard prayers.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2304500/extras/throwing_knives.png\" />",
+        "short_description": "This DLC contains one Legendary Hunter, one Legendary Weapon and one Legendary Tool: The Miko (Hunter), Ochita Mozu (Hunting Bow), Shinbatsu (Throwing Knives). ",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2304500/header.jpg",
+        "screenshots": [
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2304500/ss_46a48a14190725a8221aad19f0374e42df136d2f.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2304500/ss_46a48a14190725a8221aad19f0374e42df136d2f.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2304500/ss_da3fbf5a208e081fb13ba3e7a65a3d1897115310.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2304500/ss_da3fbf5a208e081fb13ba3e7a65a3d1897115310.1920x1080.jpg"
+            },
+            {
+                "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2304500/ss_ead390e3b445c4be3051d6c597f7ecefe568e174.600x338.jpg",
+                "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2304500/ss_ead390e3b445c4be3051d6c597f7ecefe568e174.1920x1080.jpg"
+            }
+        ],
+        "release_date": {
+            "coming_soon": true,
+            "date": "Coming soon"
+        },
+        "background": "https://cdn.akamai.steamstatic.com/steam/apps/2304500/page_bg_generated_v6b.jpg",
+        "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2304500/page.bg.jpg"
+    }
+}

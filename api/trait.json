@@ -1,0 +1,416 @@
+[
+    {
+        "id":"adrenaline",
+        "name":"Adrenaline",
+        "description":"Instantly start regenerating Stamina while your Heath is critically low. Useful after just being revived.",
+        "cost":"1",
+        "background":"traits/adrenaline/background.png",
+        "icon":"traits/adrenaline/icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    },
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "cost":"",
+        "background":"traits//background.png",
+        "icon":"traits//icon.png",
+        "is_event": false
+    }
+]

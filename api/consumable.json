@@ -1,0 +1,83 @@
+[
+    {
+        "id": "fire_bomb",
+        "name": "Fire Bomb",
+        "description": "Flammable liquid in a glass container that bursts on impact. Spreads burning liquid over a large area.",
+        "type": [
+            {
+                "value": [
+                    "Throwable",
+                    "Ballistic Trajectory",
+                    "Short Range"
+                ],
+                "icon": "stats/throwable.png"
+            },
+            {
+                "value": [
+                    "Sets Things Ablaze",
+                    "Continuous Burning",
+                    "Can Destroy Health Chunks",
+                    "Intensity Increases Over Time"
+                ],
+                "icon": "stats/fire.png"
+            }
+        ],
+        "cost": 30,
+        "unlock": {
+            "rank": null,
+            "condition": null
+        },
+        "melee_damage_type": {
+            "melee": {
+                "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
+                "damage_type": 0,
+                "icon": "stats/melee.png"
+            },
+            "heavy_melee": {
+                "info": "Heavy Melee, Strong Melee Attack, Low Damage, High Stamina Consumption, Slow Strike Frequency",
+                "damage_type": 0,
+                "icon": "stats/heavy_melee.png"
+            }
+        },
+        "stats": [
+            {
+                "name": "Damage (Thrown)",
+                "value": 11,
+                "info": "Damage value of this hitting a Hunter with full effect.",
+                "icon": "stats/damage_thrown.png"
+            },
+            {
+                "name": "Effect Radius",
+                "value": 3,
+                "info": "Effect radius in meters.",
+                "icon": "stats/effect_radius.png"
+            },
+            {
+                "name": "Throw Range",
+                "value": 22,
+                "info": "The furthest range (meters) this can be thrown.",
+                "icon": "stats/throw_range.png"
+            },
+            {
+                "name": "Effect Duration",
+                "value": 120,
+                "info": "The time the effect last in seconds.",
+                "icon": "stats/effect_duration.png"
+            },
+            {
+                "name": "Melee Damage",
+                "value": 13,
+                "info": "True damage value of a regular melee attack that hits a Hunter in the upper-Torso.",
+                "icon": "stats/melee_damage.png"
+            },
+            {
+                "name": "Heavy Melee Damage",
+                "value": 27,
+                "info": "True damage value of a charged heavy melee attack that hits a Hunter in the upper-Torso.",
+                "icon": "stats/heavy_melee_damage.png"
+            }
+        ],
+        "image": "tools/fire_bomb.png",
+        "legendary_skin": []
+    }
+]

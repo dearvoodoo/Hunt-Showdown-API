@@ -1,0 +1,18 @@
+[
+    {
+        "large": [
+            "bomb_lance"
+        ],
+        "medium": [
+            "bornheim_no_3_match"
+        ],
+        "small": [
+            "bornheim_no_3"
+        ],
+        "all": [
+            "bomb_lance",
+            "bornheim_no_3_match",
+            "bornheim_no_3"
+        ]
+    }
+]

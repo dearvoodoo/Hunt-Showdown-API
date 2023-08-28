@@ -1,0 +1,27 @@
+{
+    "0": {
+        "name": "Blunt",
+        "info": "Physical Damage, Weak Against Armor, Knockback",
+        "icon": null
+    },
+    "1": {
+        "name": "Rending (Light)",
+        "info": "Weak Against Armor, Cause Light Bleeding on Hunters, Multiple Hits Increase Intensity",
+        "icon": null
+    },
+    "2": {
+        "name": "Rending",
+        "info": "Weak Against Armor, Cause Medium Bleeding on Hunters, Multiple Hits Increase Intensity",
+        "icon": null
+    },
+    "3": {
+        "name": "Rending (Intense)",
+        "info": "Weak Against Armor, Cause Intense Bleeding on Hunters",
+        "icon": null
+    },
+    "4": {
+        "name": "Piercing",
+        "info": "Strong Against Armor, Increased Wall Penetration",
+        "icon": null
+    }
+}
