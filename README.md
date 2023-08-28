@@ -25,4 +25,5 @@ Please read the [Legal](https://www.huntshowdown.com/legal) and [Crytek Terms of
 
 # Adding data to the API or Edit existing
 * [Open an issue](https://github.com/dearvoodoo/Hunt-Showdown-API/issues) with the new code or the updated code.
+* * Or DM me on Discord / ask on [my server](https://discord.com/invite/CMtHvCrCdv)
 * VooDoo will add or update the data if needed ;)
