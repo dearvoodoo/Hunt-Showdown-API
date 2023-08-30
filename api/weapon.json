@@ -13,7 +13,10 @@
         "ammo": [
             3
         ],
-        "special_ammo": [],
+        "special_ammo": [
+            5,
+            6
+        ],
         "melee_damage_type": {
             "melee": {
                 "info": "Melee, Basic Melee Attack, Low Damage, Low Stamina Consumption, Fast Strike Frequency",
@@ -107,6 +110,8 @@
             }
         ],
         "image": "weapons/large/nagant_m1895.png",
-        "legendary_skin": []
+        "legendary_skin": [
+            60
+        ]
     }
 ]
