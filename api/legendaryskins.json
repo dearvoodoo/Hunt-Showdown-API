@@ -660,5 +660,17 @@
             "twitch_drops": false,
             "image": "weapons/legendary/calamity_jane.png"
         }
+        ,
+        "60": {
+            "name": "Copperhead",
+            "description": "This Nagant has taken a beating, but still shines under the grime and mud. A debt of gratitude is owned by gun to owner, for after all these years it is still hunting.",
+            "price": null,
+            "currency": null,
+            "DLC": "1143840",
+            "partnered": false,
+            "event": null,
+            "twitch_drops": false,
+            "image": "weapons/legendary/copperhead.png"
+        }
     }
 ]
