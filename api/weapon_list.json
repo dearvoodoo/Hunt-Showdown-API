@@ -1,18 +1,12 @@
 [
     {
-        "large": [
-            "bomb_lance"
-        ],
-        "medium": [
-            "bornheim_no_3_match"
-        ],
+        "large": [],
+        "medium": [],
         "small": [
-            "bornheim_no_3"
+            "nagant_m1895"
         ],
         "all": [
-            "bomb_lance",
-            "bornheim_no_3_match",
-            "bornheim_no_3"
+            "nagant_m1895"
         ]
     }
 ]
