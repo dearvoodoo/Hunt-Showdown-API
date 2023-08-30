@@ -56,9 +56,9 @@
     },
     "5": {
         "special": true,
-        "name": "Nagant M1895 high Velocity Ammo",
+        "name": "Nagant M1895 High Velocity Ammo",
         "description": "A hot-loaded bullet with a strong powder charge combined with a lighter projectile tip significantly boosts the muzzle velocity, but increases recoil slightly. Great for ranged combat.",
-        "cost": 50,
+        "cost": 60,
         "currency": "Hunt Dollars",
         "stats": [
             {
@@ -143,6 +143,100 @@
         "unlock_requirement": null,
         "icon": "ammo/compact/highvelocity.png",
         "bullet": "ammo/compact/highvelocity_bullet.png",
+        "ammo_box": {
+            "name": "UwU",
+            "image": "ammo/uwu_box.png"
+        }
+    },
+    "6": {
+        "special": true,
+        "name": "Nagant M1895 Poison Ammo",
+        "description": "This bullet shatters on impact, releasing a toxic agent fatal in high dises, but cannot penetrate surfaces.",
+        "cost": 50,
+        "currency": "Hunt Dollars",
+        "stats": [
+            {
+                "name": "Capacity",
+                "value": "7/21",
+                "info": "Bullets capacity in the gun.",
+                "icon": "stats/capacity.png"
+            },
+            {
+                "name": "Damage",
+                "value": 91,
+                "info": "Damage value of a shot that hits a Hunter in the upper-torso at 10 meters. For Shotguns: Average damage at 10 meters at center mass.",
+                "icon": "stats/damage.png"
+            },
+            {
+                "name": "Effective Range",
+                "value": 74,
+                "info": "The range (meters) that will kill a Hunter in one hit - usually a heashot.",
+                "icon": "stats/effective_range.png"
+            },
+            {
+                "name": "Rate of Fire",
+                "value": 21,
+                "info": "Shots fired per minute, including time to reload.",
+                "icon": "stats/rate_of_fire.png"
+            },
+            {
+                "name": "Cycle Time",
+                "value": 1.5,
+                "info": "The time (seconds) this needs to ready for the next shot, including time to reload if necessary. For Dual Wield: The time it takes for the weapon that shot first to ready again.",
+                "icon": "stats/cycle_time.png"
+            },
+            {
+                "name": "Spread",
+                "value": 40,
+                "info": "The relative crosshair spread of this while aiming form the hip. Shotguns have a comparatively wider spread.",
+                "icon": "stats/spread.png"
+            },
+            {
+                "name": "Sway",
+                "value": 128,
+                "info": "The relative amount of weapon sway while ADS.",
+                "icon": "stats/sway.png"
+            },
+            {
+                "name": "Vertical Recoil",
+                "value": 4,
+                "info": "The strength of the vertical recoil (degrees) after a shot.",
+                "icon": "stats/vertical_recoil.png"
+            },
+            {
+                "name": "Reload Speed",
+                "value": 12.5,
+                "info": "The time (in seconds) it takes to fully reload the weapon when empty, including any special behavior such as clip reloading.",
+                "icon": "stats/reload_speed.png"
+            },
+            {
+                "name": "Muzzle Velocity",
+                "value": 330,
+                "info": "The velocity (meters per second) at which the projectile will travel. Heavier projectiles (such as crossbow bolts) travel in a ballistic arc.",
+                "icon": "stats/muzzle_velocity.png"
+            },
+            {
+                "name": "Melee Damage",
+                "value": 13,
+                "info": "True damage value of a regular melee attack tha hits a Hunter in the Upper-Torso.",
+                "icon": "stats/melee_damage.png"
+            },
+            {
+                "name": "Heavy Melee Damage",
+                "value": 31,
+                "info": "True damage value of a charged heavy melee attack tha hits a Hunter in the Upper-Torso.",
+                "icon": "stats/heavy_melee_damage.png"
+            },
+            {
+                "name": "Stamina Consumption",
+                "value": 20,
+                "info": "The stamina consumed with a heavy melee attack.",
+                "icon": "stats/stamina_consumption.png"
+            }
+        ],
+        "unlock_requirement": null,
+        "icon": "ammo/compact/poison.png",
+        "bullet": "ammo/compact/poison.png",
         "ammo_box": {
             "name": "UwU",
             "image": "ammo/uwu_box.png"
